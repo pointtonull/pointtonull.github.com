@@ -1,0 +1,6 @@
+digraph workflow {
+	autor -> editor;
+	editor -> sitio;
+	administrador -> sitio;
+	sitio -> usuarios;
+}

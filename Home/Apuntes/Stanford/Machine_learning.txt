@@ -1,0 +1,49 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-11-30T23:57:14-03:00
+
+====== Machine learning ======
+Created miércoles 30 noviembre 2011
+
+{{./pasted_image002.png}}
+
+==== Homepage ====
+http://ml-class.org/
+
+==== Schedule ====
+10/10/2011 - 16/12/2011
+
+==== Maintainer ====
+[[http://ai.stanford.edu/~ang/|Prof. Andrew Ng,]] is Director of the Stanford Artificial Intelligence Lab, the main AI research organization at Stanford, with 20 professors and about 150 students/post docs. At Stanford, he teaches Machine Learning, which with a typical enrollment of 350 Stanford students, is among the most popular classes on campus. His research is primarily on machine learning, artificial intelligence, and robotics, and most universities doing robotics research now do so using a software platform (ROS) from his group.
+
+In 2008, together with SCPD he started SEE (Stanford Engineering Everywhere), which was Stanford's first attempt at free, online distributed education. Since then, over 200,000 people have viewed his machine learning lectures on YouTube, and over 1,000,000 people have viewed his and other SEE classes' videos.
+
+Ng is the author or co-author of over 100 published papers in machine learning, and his work in learning, robotics and computer vision has been featured in a series of press releases and reviews. In 2008, Ng was featured in Technology Review's TR35, a list of "35 remarkable innovators under the age of 35". In 2009, Ng also received the IJCAI Computers and Thought award, one of the highest honors in AI.
+About The Class
+
+==== Include ====
+* weekly video lectures
+* lecture notes
+* review questions
+* programming exercises
+* online discussion forum
+
+==== Description ====
+
+==== Provides ====
+* a broad introduction to machine learning, datamining, and statistical pattern recognition:
+	* Supervised learning:
+		* parametric/non-parametric algorithms
+		* support vector machines
+		* kernels
+		* neural networks
+	* Unsupervised learning
+		* clustering
+		* dimensionality reduction
+		* recommender systems
+		* deep learning
+	* Best practices in machine learning
+		* bias/variance theory
+		* innovation process in machine learning and AI
+	* Reinforcement learning
+* how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.

@@ -1,0 +1,120 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-11-20T22:03:43-03:00
+
+====== pendientes ======
+Created domingo 20 noviembre 2011
+
+TODO: @gatma
+[ ] @moodle
+	[ ] comprobar respaldo general
+	[ ] correr servicio localmente
+	[ ] actualizar localmente
+	[ ] actualizar remoto
+	[ ] añadir editor de formulas wiris
+[ ] @joomla
+	[ ] añadir editor de formulas wiris !!
+	[ ] crear sección "Sobre nosotros" !!
+	[ ] integración con moodle !
+	[ ] actualzar miembros !!!
+	[ ] mejorar posicionamiento, promoción e indización del sitio !!
+	[ ] actualizar a 1.7 !!!
+[ ] @audacity
+	[ ] guionar reunión con finalización de guión de radio
+	[ ] ensayar post-producción
+[ ] @educacion_viral
+	[ ] Desarrollar el concepto
+	[ ] Pensar posibles aplicaciones
+
+TODO: @leer
+[ ] En busca del tiempo perdido @Marcel_Proust
+[ ] @Lewis_Carroll
+[ ] El extranjero @Albert_Camus
+[ ] Fausto @Goethe
+[ ] Moby Dick
+[ ] El pais del viento
+
+TODO: @organizar
+[ ] crear carpetas y filtros para grupos de "from" habituales en claws-mail
+
+TODO: @occio
+[ ] registrarme y explorar la posibilidad de usar @falsaria
+[ ] instalar, probar y dar una oportunidad a @yacy
+[ ] crear y subir colecciones con @playlists a mi @celular
+[ ] averiguar sobre compra/fabricación de ilimunadores nocturnos para cañas de @pesca
+
+TODO: @aprender
+[ ] aprender [[Home:Apuntes:graphviz]] !
+[ ] @dot con @pydot
+[ ] a usar corrector ortográfico de @vim !!
+[ ] @ruby y @ruby_on_rails
+[ ] @web2py !!
+[ ] @ATR reconocimiento automático de imágenes
+[ ] @chino_mandarín
+[ ] [[Home:Apuntes:checklist pesca]] !!
+[ ] mercadolibre !!
+	[ ] publicar excedentes conocidos
+	[ ] listar posibles excedentes
+	[ ] autorizar lista
+	[ ] comenzar la publicación
+
+TODO: @IFZ
+[*] hacer completar libreta !
+[ ] preparar lista de materias !!
+[ ] preparar cronograma de examenes !!
+[ ] analizar correlatividades !!!
+
+TODO: @compromisos
+[ ] hablar a Martha !!!
+[ ] hablar a tía Elva !!
+[ ] crear AP wireless
+[ ] grabar peliculas !!!
+[ ] recuperar @fotos y grabarlas en CD kodak !!
+[ ] revisar impresora tía Elva
+[ ] revisar pc de tía Elva
+
+TODO: @escribir
+[ ] guía de @scripting en @awk
+[ ] articulo sobre sirviñaco en @wikipedia
+
+TODO: @programar
+[ ] @zim plugin/comando finalizadas a historial !!!
+[ ] @diaspora cliente WYSIWYG
+[ ] @algoritmos_geneticos para ajustar series !!
+[ ] @reconnect.py !!
+	[ ] DHCP
+	[ ] connect
+	[ ] reset router
+[ ] @pyunwrap !!
+	[*] selección de resultados
+	[*] invertir transformaciones en los tiles
+	[ ] nuevo algoritmo
+	[ ] cierre de poligonos (genetico?)
+	[ ] series fractales
+	[ ] wavelet
+[ ] @processfeed !
+	[ ] error stdin a mails !!!
+	[ ] entry explicito?
+	[ ] permitir acciones sin novedades (tantos día sin novedades > publica un wtf)
+	[ ] permitir especificar fichero de configuración a usar
+	[ ] implementar .lockfile por cada fichero de configuración
+	[ ] el log debe tomar la ruta del fichero de configuración
+[ ] @browser.py !!!
+	[ ] arreglar useragent
+	[ ] añadir persistencia de estado
+[ ] @home2py !!
+	[ ] nociones sobre web2py
+	[ ] añadir resumen de cuentas
+	[ ] añadir cuentas corrientes
+	[ ] añadir saldos celulares
+	[ ] añadir pozos de sorteos
+	[ ] añadir control de premios
+[ ] @mlshell !
+	[*] pasar a telnet
+	[ ] revisar mlrotate
+[ ] @gnokii.py !!
+	[ ] terminar implementación de métodos
+	[ ] crear implementación de referencia (fusionar con smsd)
+	[*] conseguir modem 3g
+[ ] @GPS symbian orientado a uso de checkpoints y rutas variables !!
+	[ ] debe corregir inteligentemente errores de presición (asumiendo que las distancias son invariables)

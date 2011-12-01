@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-11-21T23:55:12-03:00
+
+====== joomla ======
+Created lunes 21 noviembre 2011
+
+{{./diagram001.png?type=diagram}}{{./diagram002.png?type=diagram}}

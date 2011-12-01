@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-12-01T00:06:19-03:00
+
+====== Design and Analysis of Algorithms I ======
+Created jueves 01 diciembre 2011
+
+{{./pasted_image006.png}}
+
+==== Homepage ====
+http://www.algo-class.org/
+
+==== Schedule ====
+23/01/2012
+
+==== Maintainers ====
+* Tim Roughgarden
+
+==== Provides ====
+* fundamental principles of algorithm design
+	* divide-and-conquer design paradigm
+		* fast sorting
+		* searching
+		* multiplication
+	* several blazingly fast primitives for computing on graphs
+		* how to compute connectivity information
+		* shortest paths
+	* how allowing the computer to "flip coins" can lead to elegant and practical algorithms and data structures
+	* how do data structures like heaps, hash tables, bloom filters, and balanced search trees actually work, anyway?
+	* how come QuickSort runs so fast?
+	* what can graph algorithms tell us about the structure of the Web and social networks?
+	* did my 3rd-grade teacher explain only a suboptimal algorithm for multiplying two numbers?
+
+==== Requires ====
+* programming in at least one programming language (like C, Java, or Python)
+* familiarity with proofs, including proofs by induction and by contradiction
+* some discrete probability, like how to compute the probability that a poker hand is a full house
+
+==== Bibliography ====
+* Kleinberg & Tardos Algorithm Design
+* Dasgupta, Papadimitriou & Vazirani Algorithms
+* Cormen, Leiserson, Rivest & Stein Introduction to Algorithms

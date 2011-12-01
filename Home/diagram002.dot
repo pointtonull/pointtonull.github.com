@@ -1,0 +1,6 @@
+digraph claro  {
+	carlos -> madre
+	madre -> padre
+	padre -> carlos
+	ana -> diego
+}

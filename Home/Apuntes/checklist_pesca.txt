@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-11-20T03:30:42-03:00
+
+====== checklist pesca ======
+Created domingo 20 noviembre 2011
+
+[ ] revisar [[+lista]]
+[ ] anticepticos:
+	[ ] averiguar conveniencia
+	[ ] conseguir precios alternativos (¿tía baby?)
+	[ ] comprar
+[ ] celular de emergencia (huawei con chip y tarjeta personal)

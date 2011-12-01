@@ -1,0 +1,58 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-11-24T05:54:20-03:00
+
+====== presentación ======
+Created jueves 24 noviembre 2011
+
+* ¿Porque Joomla?
+	* Joomla es Open Source
+	* Características de Joomla
+* Edición de contenido en Joomla
+	* Edición de artículos desde la zona de administración
+		* Barra de herramientas
+		* Área de Edición
+	* Edición de artículos desde la zona pública
+* Organización del contenido en Joomla
+	* El artículo como unidad básica de contenido
+* Organización de los contenidos en Joomla
+	* Formatos para la presentación de artículos
+		* Presentación tipo blog
+		* Presentación tipo lista o tabla
+		* Presentación de la lista de categorías de una sección
+		* Artículos "a toda página"
+	* A tener en cuenta
+* El gestor multimedia
+	* Acceso al Gestor Multimedia
+	* Subida de archivos
+	* Crear nuevas carpetas
+* Edición de contenido estático
+	* ¿Qué es el contenido estático en Joomla?
+	* Creando un nuevo artículo con contenido estático
+		* Añadir un nuevo artículo
+		* Añadir un enlace al menú
+* Determinar la página de inicio del sitio
+	* Parámetros del componente Frontpage
+* Gestión de artículos en Joomla
+	* El Gestor de Artículos
+	* Lista de Artículos
+	* Barra de Herramientas
+Preferencias globales	16
+Artículos en la página de inicio	16
+Archivo de artículos	16
+Papelera de Artículos	17
+El Panel de Control	18
+Zona pública y zona de administración	18
+Elementos del Panel de Control	18
+Iconos de acceso rápido	18
+Gestión de usuarios	20
+El Gestor de Usuarios	20
+Registro de usuarios en Joomla	20
+Registro libre de usuarios desde el frontend	20
+Alta manual de usuarios	21
+Niveles de acceso o grupos de usuarios	21
+Niveles de acceso en la parte pública (Front-end)	21
+Niveles de acceso en la parte de administración (Back-end)	21
+A tener en cuenta	22
+Permisos de Acceso	22
+Fuentes consultadas	23

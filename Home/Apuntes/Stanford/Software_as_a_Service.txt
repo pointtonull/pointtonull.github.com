@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-12-01T00:03:16-03:00
+
+====== Software as a Service ======
+Created jueves 01 diciembre 2011
+
+{{./pasted_image.png}}
+
+==== Maintainer ====
+
+==== Description ====
+Sobre la ingeniería requerida para el desarrollo de sistemas de ejecución larga usando desarrollo agil de software. Requiere ser bueno en un lenguaje orientado a objetos.
+
+http://www.saas-class.org/
+02/2012
+
+===== Bibliography =====
+
+* "Engineering Long-Lasting Software: An Agile Approach Using SaaS and Cloud Computing,"

@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-11-21T01:29:40-03:00
+
+====== posibles ======
+Created lunes 21 noviembre 2011
+
+[ ] @SMS !!
+	[ ] hacer multithread
+	[ ] auto captcha
+	[ ] mudar a litebrowser
+[ ] @IMMS (reemplazar) !
+[ ] @PyHDR script para hacer HDR sencillo en GNU/linux !
+[ ] @Radio arreglar bug en matar sintonizador, añadir cli !
+[ ] @picswar rankeador de fotos !
+[ ] @mp3strip eliminar los silencios al comienzo y al final !
+[ ] @pomodoro todo manager jerarquico con gestor de rutinas y bitacora de logros !
+[ ] @joomla @cli !
+	[ ] fichero de configuración
+	[ ] persistencia de cookies

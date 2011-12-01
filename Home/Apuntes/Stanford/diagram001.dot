@@ -1,0 +1,14 @@
+digraph saas {
+
+"Agile\ndevelopment" -> "Engineering\nLong-Lived SaaS"
+"Agile\ndevelopment" -> "Highly productive\nframeworks & tools"
+"Agile\ndevelopment" -> "Saas on cloud\ncomputing"
+"Highly productive\nframeworks & tools" -> "Agile\ndevelopment"
+"Highly productive\nframeworks & tools" -> "Engineering\nLong-Lived SaaS"
+"Highly productive\nframeworks & tools" -> "Saas on cloud\ncomputing"
+"Saas on cloud\ncomputing" -> "Agile\ndevelopment"
+"Saas on cloud\ncomputing" -> "Engineering\nLong-Lived SaaS"
+"Saas on cloud\ncomputing" -> "Highly productive\nframeworks & tools"
+
+
+}

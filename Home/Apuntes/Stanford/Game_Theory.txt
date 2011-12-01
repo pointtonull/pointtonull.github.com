@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-12-01T00:05:26-03:00
+
+====== Game Theory ======
+Created jueves 01 diciembre 2011
+
+{{./pasted_image009.png}}
+http://www.game-theory-class.org/
+late 02/2012
+
+==== Maintainer ====
+* Matthew Jackson is the William D. Eberle Professor of Economics at Stanford University and an external faculty member of the Santa Fe Institute and a fellow of CIFAR. Jackson's research interests include game theory, microeconomic theory, and the study of social and economic networks, on which he has published many articles and the book Social and Economic Networks. Jackson is a Fellow of the Econometric Society and the American Academy of Arts and Sciences, and his honors include the Social Choice and Welfare Prize, a Guggenheim Fellowship, and the B.E.Press Arrow Prize for Senior Economists. He has served as co-editor of Games and Economic Behavior, the Review of Economic Design, and Econometrica.
+* Yoav Shoham received his PhD in computer science from Yale University in 1987, and has been a Professor of Computer Science at Stanford University since then. His research interests include logic-based knowledge representation, game theory, and electronic commerce. He has published numerous articles in these areas, and five books. The last one, Essentials of Game Theory (co-written with K. Leyton-Brown), covers the material in this course. Prof. Shoham has also founded several successful internet companies.
+
+==== Description ====
+Is the mathematical modeling of strategic interaction among rational (and irrational) agents:
+
+==== Provides ====
+* apply to:
+	* 'games' such as chess, poker, soccer, etc.
+	* conflict among nations
+	* political campaigns
+	* competition among firms
+	* trading behavior in markets
+	* peer to peer file-sharing networks
+* representing games and strategies
+	* extensive form (which computer scientists call game trees)
+	* Bayesian games (modeling things like auctions)
+	* repeated and stochastic games
+
+==== Requires ====
+* mathematical thinking and rigorous arguments
+* probability theory (e.g.: you should know what a conditional probability is)
+* basic calculus (e.g., taking a derivative)
+
+==== Maintainers ====
+* Matthew Jackson
+* Yoav Shoham
