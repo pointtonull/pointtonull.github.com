@@ -1,9 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2011-11-20T02:57:23-03:00
-
-====== Home ======
-Created domingo 20 noviembre 2011
-
-[[+Tareas]]
-[[+apuntes]]

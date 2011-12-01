@@ -1,7 +1,0 @@
-digraph workflow {
-	autor -> editor;
-	editor -> maquetador;
-	maquetador -> administrador;
-	administrador -> sitio;
-	sitio -> usuarios;
-}

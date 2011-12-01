@@ -1,8 +1,0 @@
-digraph {
-	administrador -> sitio;
-
-	autor -> editor;
-	editor -> sitio;
-
-	sitio -> usuarios;
-}
