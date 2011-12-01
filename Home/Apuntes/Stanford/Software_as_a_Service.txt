@@ -5,7 +5,7 @@ Creation-Date: 2011-12-01T00:03:16-03:00
 ====== Software as a Service ======
 Created jueves 01 diciembre 2011
 
-{{./pasted_image.png}}
+{{../pasted_image.png}}
 
 ==== Maintainer ====
 

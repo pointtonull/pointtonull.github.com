@@ -5,7 +5,7 @@ Creation-Date: 2011-12-01T00:03:56-03:00
 ====== Natural Language Processing ======
 Created jueves 01 diciembre 2011
 
-{{./pasted_image004.png}}
+{{../pasted_image004.png}}
 
 ==== Homepage ====
 http://www.nlp-class.org/

@@ -5,7 +5,7 @@ Creation-Date: 2011-12-01T00:05:44-03:00
 ====== Cryptography ======
 Created jueves 01 diciembre 2011
 
-{{./pasted_image007.png}}
+{{../pasted_image007.png}}
 
 ==== Homepage ====
 http://www.crypto-class.org/

@@ -4,7 +4,7 @@ Creation-Date: 2011-12-01T00:07:26-03:00
 
 ====== Computer Security ======
 Created jueves 01 diciembre 2011
-{{./pasted_image005.png}}
+{{../pasted_image005.png}}
 
 ==== Description ====
 Course homework and labs will teach students how to find vulnerabilities and how to fix them. The labs are designed to help students practice the principles of secure system design.

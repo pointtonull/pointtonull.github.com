@@ -5,7 +5,7 @@ Creation-Date: 2011-11-30T23:57:14-03:00
 ====== Machine learning ======
 Created miércoles 30 noviembre 2011
 
-{{./pasted_image002.png}}
+{{../pasted_image002.png}}
 
 ==== Homepage ====
 http://ml-class.org/

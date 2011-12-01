@@ -5,6 +5,6 @@ Creation-Date: 2011-12-01T00:02:36-03:00
 ====== Computer Science 101 ======
 Created jueves 01 diciembre 2011
 
-{{./pasted_image001.png}}
+{{../pasted_image001.png}}
 http://www.cs101-class.org/
 02/2012

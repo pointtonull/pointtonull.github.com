@@ -5,7 +5,7 @@ Creation-Date: 2011-12-01T00:02:09-03:00
 ====== Probabilistic Graphical Models ======
 Created jueves 01 diciembre 2011
 
-{{./pasted_image008.png}}
+{{../pasted_image008.png}}
 
 ==== Homepage ====
 http://www.pgm-class.org/
