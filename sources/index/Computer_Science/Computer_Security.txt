@@ -9,7 +9,7 @@ Creation-Date: 2011-12-01T00:07:26-03:00
 
 http://www.security-class.org/
 
-==== Schedule ====
+===== Schedule =====
 
 * Starts: 02/2012
 
