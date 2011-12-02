@@ -1,0 +1,51 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-12-01T00:07:26-03:00
+
+====== Computer Security ======
+{{../pasted_image005.png}}
+
+===== Homepage =====
+
+http://www.security-class.org/
+
+==== Schedule ====
+
+* Starts: 02/2012
+
+===== Description =====
+
+Course homework and labs will teach students how to find vulnerabilities and how to fix them. The labs are designed to help students practice the principles of secure system design.
+
+===== Provides =====
+
+* how to:
+	* design secure systems
+	* write secure code
+	* find vulnerabilities in code
+	* design software systems that limit the impact of security vulnerabilities
+		* memory safety vulnerabilities
+		* techniques and tools for vulnerability detection
+		* sandboxing and isolation
+		* web security
+		* network security
+		* malware detection and defense
+		* mobile platform security
+
+===== Requires =====
+
+* knowledge of programming languages such as C and C++
+* understanding of basic concepts from operating systems such as processes and threads
+
+===== The Instructors =====
+
+* [[http://crypto.stanford.edu/~dabo/|Professor Dan Boneh]] heads the applied cryptography group at the Computer Science department at Stanford University. Professor Boneh's research focuses on applications of cryptography to computer security. His work includes cryptosystems with novel properties, web security, security for mobile devices, digital copyright protection, and cryptanalysis. He is the author of over a hundred publications in the field and a recipient of the Packard Award, the Alfred P. Sloan Award, and the RSA award in mathematics. Last year Dr. Boneh received the Ishii award for industry education innovation. Professor Boneh received his Ph.D from Princeton University and joined Stanford in 1997.
+* [[http://theory.stanford.edu/people/jcm/|Professor John Mitchell]] is the Mary and Gordon Crary Family Professor in the Department of Computer Science at Stanford University. His research focuses on web security, network security, privacy, programming language analysis and design, formal methods, and applications of mathematical logic to computer science. He is Editor-in-Chief of the Journal of Computer Security and his past awards include a Director's Award from the U.S. Secret Service for his efforts in connection with the Electronic Crimes Task Force. Prof. Mitchell is the Stanford principal investigator for the TRUST NSF Science and Technology Center and Chief Computer Scientist of the SHARPS Center for Healthcare IT Security and Privacy.
+* [[http://www.cs.berkeley.edu/~dawnsong/|Professor Dawn Song]] is Associate Professor of Computer Science at UC Berkeley. Prior to joining UC Berkeley, she was an Assistant Professor at Carnegie Mellon University from 2002 to 2007. Her research interest lies in security and privacy issues in computer systems and networks, including areas ranging from software security, networking security, database security, distributed systems security, to applied cryptography. She is the recipient of various awards including the MacArthur Fellowship, the Guggenheim Fellowship, the NSF CAREER Award, the Alfred P. Sloan Research Fellowship, the MIT Technology Review TR-35 Award, and Best Paper awards.
+
+===== Include =====
+
+* lecture videos, which are broken into small chunks, some of these may contain integrated quiz questions
+* quizzes that are not part of video lectures
+* other assignments
+* approximately two hours worth of video content per week

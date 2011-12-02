@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-12-01T17:29:07-03:00
+
+====== Technology Entrepreneurship ======
+
+{{./pasted_image.png}}
+
+===== Homepage =====
+
+http://www.venture-class.org/
+
+===== Schedule =====
+
+Starts: 01/2012
+
+===== Description =====
+
+How do you create a successful start-up? What is entrepreneurial leadership in a large firm? What are the differences between an idea and true opportunity? How does an entrepreneur form a team and gather the resources necessary to create a great enterprise? This class mixes in-depth case studies and research on the entrepreneurial process. For undergraduates of all majors who seek to understand the formation and growth of high-impact start-ups in areas such as information, green/clean, medical and consumer technologies. No prerequisites are necessary but the course is targeted at Juniors and Seniors.
+
+===== Instructor =====
+
+[[http://www.stanford.edu/~cee|Chuck Eesley]] is a professor in Stanford University's Management Science & Engineering group, teaching and doing research on technology entrepreneurship so that the next generation of entrepreneurs can have the greatest chances of success possible.
+
+Before Stanford, Professor Eesley earned his Ph.D. at the MIT Sloan School of Management and a B.S. in Biological Basis of Behavior at Duke University. He has spent the past 10 years in and around startups, founding 3 of his own, worked in a Duke neuroscience lab, started a biotech consulting firm, worked with numerous pharmaceutical companies and two venture capital firms and mentored startups in the MIT $100K and Clean Energy competitions.
+Frequently Asked Questions
+
+===== Include =====
+
+* lecture videos, which may contain integrated quiz questions
+* standalone quizzes

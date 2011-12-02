@@ -1,0 +1,52 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-12-01T17:30:00-03:00
+
+====== Model Thinking ======
+
+{{./pasted_image.png}}
+
+===== Homepage =====
+
+http://www.modelthinker-class.org/
+
+===== Schedule =====
+
+Starts: 23/01/2012
+
+===== Instructor =====
+
+* [[http://www.cscs.umich.edu/~spage/|Scott E. Page]] is the Leonid Hurwicz Collegiate Professor of Complex Systems, Political Science, and Economics at the University of Michigan where he directs the Center for the Study of Complex Systems. He is also an external faculty member of the Santa Fe Institute. Scott has won awards for his teaching and service at the University of Wisconsin, Northwestern's Kellogg School of Management, Caltech, and the University of Michigan. Scott has published widely on a variety of topics across the social sciences. In 2011, he was elected to the American Academy of Arts and Sciences.
+
+==== Description ====
+
+We live in a complex world with diverse people, firms, and governments whose behaviors aggregate to produce novel, unexpected phenomena. We see political uprisings, market crashes, and a never ending array of social trends. How do we make sense of it?
+
+Models. Evidence shows that people who think with models consistently outperform those who don't. And, moreover people who think with lots of models outperform people who use only one.
+
+Models help us to better organize information - to make sense of that fire hose or hairball of data (choose your metaphor) available on the Internet. Models improve our abilities to make accurate forecasts. They help us make better decisions and adopt more effective strategies. They even can improve our ability to design institutions and procedures.
+
+In this class, I present a starter kit of models: I start with models of tipping points. I move on to cover models explain the wisdom of crowds, models that show why some countries are rich and some are poor, and models that help unpack the strategic decisions of firm and politicians.
+
+===== Provide =====
+
+* a foundation for future social science classes
+	* economics
+	* political science
+	* business
+	* sociology
+* this material will give you a huge leg up in advanced courses
+
+
+===== Include =====
+
+* for each model
+	* short, easily digestible overview lecture
+	* technical details
+	* some questions
+* quizzes
+* final exam
+
+===== Require =====
+
+• some algebra

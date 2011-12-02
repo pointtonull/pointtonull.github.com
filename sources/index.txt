@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-11-30T16:12:12-03:00
+
+
+{{./pasted_image.png?href=http://www.stanford.edu/}}
+
+La Universidad de Stanford decidió abrir varios de sus más populares cursos a todo el mundo de forma gratuita y para cursado no presencial. En esta página intentamos resumir las características de ellos. De momento los de Ciencias de la Computación son los que más atención han recibido debido a que el grupo primitivo se interesó más en ellos pero es algo que iremos mejorando paulatinamente.
+
+A favor:
+
+	* excelente oportunidad para aprender
+	* los aprobados reciben un reconocimiento firmado por los instructores
+	* son durante nuestras vacaciones de verano
+	* son gratuitos
+
+En contra:
+
+	* están en inglés (aunque la mayoría ofrecen transcripciones de los videos y hasta traducciones)
+	* son un poco intensivos
+
+* [[+Civil Engineering|Civil Engineering]]
+	* [[+Civil Engineering:Making Green Buildings|Making Green Buildings]]
+* [[+Complex Systems|Complex Systems]]
+	* [[+Complex Systems:Model Thinking|Model Thinking]]
+* [[+Computer Science|Computer Science]]
+	* [[+Computer_Science:Artificial_Intelligence|Artificial Intelligence]]
+	* [[+Computer_Science:Computer_Science_101|Computer Science 101]]
+	* [[+Computer_Science:Computer_Security|Computer Security]]
+	* [[+Computer_Science:Cryptography|Cryptography]]
+	* [[+Computer_Science:Design_and_Analysis_of_Algorithms_I|Design and Analysis of Algorithms I]]
+	* [[+Computer_Science:Game_Theory|Game Theory]]
+	* [[+Computer_Science:Human-Computer_Interaction|Human-Computer Interaction]]
+	* [[+Computer_Science:Introduction_to_Databases|Introduction to Databases]]
+	* [[+Computer_Science:Machine_learning|Machine learning]]
+	* [[+Computer_Science:Natural_Language_Processing|Natural Language Processing]]
+	* [[+Computer_Science:Probabilistic_Graphical_Models|Probabilistic Graphical Models]]
+	* [[+Computer_Science:Software_as_a_Service|Software as a Service]]
+* [[+Electrical Engr.|Electrical Engr.]]
+	* [[+Electrical Engr.:Information Theory|Information Theory]]
+* [[+Entrepreneurship|Entrepreneurship]]
+	* [[+Entrepreneurship:Technology Entrepreneurship|Technology Entrepreneurship]]
+	* [[+Entrepreneurship:The Lean Launchpad|The Lean Launchpad]]
+* [[+Medicine|Medicine]]
+	* [[+Medicine:Anatomy|Anatomy]]

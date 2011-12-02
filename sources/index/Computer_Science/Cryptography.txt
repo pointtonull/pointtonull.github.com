@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-12-01T00:05:44-03:00
+
+====== Cryptography ======
+
+{{../pasted_image007.png}}
+
+===== Homepage =====
+
+http://www.crypto-class.org/
+
+===== Schedule =====
+
+* Starts: 01/2012
+
+===== Instructors =====
+
+* Dan Boneh
+
+===== Includes =====
+
+* written homeworks
+* programming labs
+
+===== Provides =====
+
+* inner workings of cryptographic primitives and how to correctly use them
+* how to reason about the security of cryptographic constructions
+* how to apply this knowledge to real-world applications
+* detailed discussion of how two parties who have a shared secret key can communicate securely when a powerful adversary eavesdrops and tampers with traffic
+* examine many deployed protocols and analyze mistakes in existing systems
+* discusses public-key techniques that let two or more parties generate a shared secret key
+* relevant number theory and discuss public-key encryption, digital signatures, and authentication protocols
+* zero-knowledge, distributed protocols such as secure auctions
+* number of privacy mechanisms
+* the course students will be exposed to many exciting open problems in the field
+
+===== Requires =====
+
+* [[http://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Discrete_Probability|basic understanding of discrete probability theory]]
