@@ -1,0 +1,211 @@
+/* estilo del cuerpo */
+
+/*
+            a          { text-decoration: none      }
+			a:hover    { text-decoration: underline }
+			a:active   { text-decoration: underline }
+			strike     { color: grey                }
+			u          { text-decoration: none;
+			             background-color: yellow   }
+			tt         { color: #2e3436;            }
+			pre        { color: #2e3436;
+			             margin-left: 20px          }
+			h1         { text-align: center;
+			             color: #4e9a06             }
+			h2         { color: #4e9a06             }
+			h3         { color: #4e9a06             }
+			h4         { color: #4e9a06             }
+			h5         { color: #4e9a06             }
+			span.insen { color: grey                }
+			.page { max-width: 1000px;}
+			.menu{
+				float:left; width: 300px;
+			}
+			
+			.content { padding-left: 320px;}
+			.notebook{font-variant: small-caps;
+					color:#4e9a06;
+					padding: 0px 20px;}
+			hr{clear:both;}
+*/
+
+body {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 80%;
+	color: black;
+	background-image: url(../images/background.png);
+	background-repeat: repeat-x;
+	margin: 1em;
+	padding: 0;
+}
+
+/* estilos varios (H#, p, table, tbody, th, strong)*/
+
+p {
+	line-height: 1.5em;
+}
+
+h1 {
+	color: white;
+	background-color: #090;
+	font-size: 2em;
+	margin: 0;
+	margin-bottom: 0.5em;
+	padding: 0.25em;
+	font-style: italic;
+	text-align: center;
+	letter-spacing: 0.5em;
+	border-bottom-style: solid;
+	border-bottom-width: 0.5em;
+	border-bottom-color: #0c0;
+}
+
+h2 {
+	color: white;
+	background-color: #090;
+	font-size: 1.5em;
+	margin: 0;
+	padding: 0.1em;
+	padding-left: 1em;
+	border-bottom-style: solid;
+	border-bottom-width: 0.5em;
+	border-bottom-color: #0c0;
+}
+
+h3 {
+	color: #999;
+	font-size: 1.25em;
+}
+
+
+a {
+	text-decoration: none;
+}
+
+strong {
+	font-style: italic;
+	text-transform: capitalize;
+}
+
+
+table.border {
+	border-color: #0c0;
+	border-style: solid;
+	border-top-width: 0; 
+	background-image: url(../images/back-table.png);
+	background-repeat: repeat;
+	padding: 0.1em;
+}
+
+th.line {
+	text-align: left;
+	color: #009;
+	border-bottom-style: solid;	
+}
+
+th {
+	text-align: left;
+	color: #009;	
+}
+
+tbody {
+	vertical-align: top;
+}
+
+/* estilo del menu */
+
+ #navigation {
+	position: absolute;
+	top: 5.2em;
+	left: 1em;
+	width: 20em;
+}
+
+#navigation ul {
+	padding: 0;
+	list-style: none;
+}
+		
+#navigation ul a {
+	color: white;
+	text-decoration: none;
+	display: block;
+	background: #090;
+	padding: 0.5em 0.5em;
+	margin: 0 0 1px 0;
+}
+
+#navigation ul a.actual {
+	color: #00f;
+	text-decoration: none;
+	display: block;
+	background: #0c0;
+	padding: 0.5em 0.5em;
+	margin: 0 0 1px 0;
+}
+
+#navigation ul li {
+	color: white;
+	font-weight: bold;
+}		
+#navigation a:visited {
+	color: #ccc;
+}
+		
+#navigation a:hover {
+	background: #0c0;
+}
+
+/* estilo del contenido*/
+
+#content {
+	margin: 0 0 0 21em;
+}
+
+#content ul {
+	color: #00c;
+	font-style: italic;
+	list-style-type: square; 	
+}
+
+
+#content img {
+	clear: right;
+	float: right;
+	margin-left: 1em;
+	border-style: solid;
+	border-width: 2px;
+	border-top-width: 0;
+	border-color: #0c0; 
+} 
+
+/* estilo de la pagina de contactos*/
+
+#contact-content {
+	margin: 0 0 0 21em;
+}
+
+#contact-content table {
+	padding: 1em;
+	list-style: none; 	
+}
+
+#contact-content table td {
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	padding: 0 1em;
+}
+
+#contact-content table a {
+	display: block;
+}
+
+#contact-content table a:hover {
+	display: table-cell;
+}
+
+#contact-content img {
+	width: 48px;
+	height: 48px;
+}
