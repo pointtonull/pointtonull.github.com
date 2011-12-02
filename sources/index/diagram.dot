@@ -1,0 +1,8 @@
+digraph social {
+
+	Carlos -> Matias;
+	Carlos -> Nilsa [style=dotted];
+	Carlos -> José [style=dotted];
+	Carlos -> Andrea;
+	Matias -> Nilsa [style=dotted];
+}
