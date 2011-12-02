@@ -185,8 +185,11 @@ tbody {
 */
 
 
-			.menu{
-				float:left; width: 300px;
-			}
+.menu{
+    float: left;
+    width: 300px;
+}
 			
-			.content { padding-left: 320px;}
+.content {
+    padding-left: 320px;
+}
