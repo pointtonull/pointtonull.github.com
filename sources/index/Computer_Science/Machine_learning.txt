@@ -4,7 +4,7 @@ Creation-Date: 2011-11-30T23:57:14-03:00
 
 ====== Machine learning ======
 
-{{../pasted_image002.png}}
+{{../pasted_image002.jpg}}
 
 ===== Homepage =====
 

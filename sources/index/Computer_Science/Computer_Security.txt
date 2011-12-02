@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2011-12-01T00:07:26-03:00
 
 ====== Computer Security ======
-{{../pasted_image005.png}}
+{{../pasted_image005.jpg}}
 
 ===== Homepage =====
 

@@ -4,7 +4,7 @@ Creation-Date: 2011-12-01T00:02:09-03:00
 
 ====== Probabilistic Graphical Models ======
 
-{{../pasted_image008.png}}
+{{../pasted_image008.jpg}}
 
 ===== Homepage =====
 

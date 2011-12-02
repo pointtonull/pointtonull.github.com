@@ -4,7 +4,7 @@ Creation-Date: 2011-12-01T17:30:00-03:00
 
 ====== Model Thinking ======
 
-{{./pasted_image.png}}
+{{./pasted_image.jpg}}
 
 ===== Homepage =====
 

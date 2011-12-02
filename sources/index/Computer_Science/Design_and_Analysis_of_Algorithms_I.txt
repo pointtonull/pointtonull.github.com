@@ -4,7 +4,7 @@ Creation-Date: 2011-12-01T00:06:19-03:00
 
 ====== Design and Analysis of Algorithms I ======
 
-{{../pasted_image006.png}}
+{{../pasted_image006.jpg}}
 
 ===== Homepage =====
 

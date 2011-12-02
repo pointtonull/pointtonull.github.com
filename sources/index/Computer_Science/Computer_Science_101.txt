@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2011-12-01T00:02:36-03:00
 
 ====== Computer Science 101 ======
-{{../pasted_image001.png}}
+{{../pasted_image001.jpg}}
 
 ===== Homepage =====
 

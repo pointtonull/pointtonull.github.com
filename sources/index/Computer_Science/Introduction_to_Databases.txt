@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2011-11-30T23:58:56-03:00
 
 ====== Introduction to Databases ======
-{{./pasted_image.png}}
+{{./pasted_image.jpg}}
 
 ===== Homepage =====
 

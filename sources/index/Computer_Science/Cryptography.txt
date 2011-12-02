@@ -4,7 +4,7 @@ Creation-Date: 2011-12-01T00:05:44-03:00
 
 ====== Cryptography ======
 
-{{../pasted_image007.png}}
+{{../pasted_image007.jpg}}
 
 ===== Homepage =====
 
