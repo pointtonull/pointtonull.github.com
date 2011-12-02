@@ -11,6 +11,15 @@ body {
 	padding: 0;
 }
 
+.menu{
+    float: left;
+    width: 300px;
+}
+			
+.content {
+    padding-left: 320px;
+}
+
 /* estilos varios (H#, p, table, tbody, th, strong)*/
 
 p {
@@ -185,11 +194,3 @@ tbody {
 */
 
 
-.menu{
-    float: left;
-    width: 300px;
-}
-			
-.content {
-    padding-left: 320px;
-}
