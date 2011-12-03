@@ -111,8 +111,7 @@ div.menu ul ul {
 }
 		
 div.menu ul ul li a:hover {
-    background: white;
-    color: gray;
+    background: darkgray;
 }
 
 div.menu ul ul li a {
