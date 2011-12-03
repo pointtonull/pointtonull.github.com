@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-12-01T00:01:35-03:00
+
+====== Human-Computer Interaction ======
+
+{{../pasted_image003.jpg}}
+
+===== Homepage =====
+
+http://www.hci-class.org
+
+===== Schedule =====
+
+Starts: 01/2012
+
+===== Instructor =====
+
+* [[http://hci.stanford.edu/srk/|Scott Klemmer]] is an Associate Professor of Computer Science at Stanford University. He co-directs the Human-Computer Interaction Group and holds the Bredt Faculty Scholar development chair. Organizations around the world use his lab's open-source design tools and curricula; several books and popular press articles have covered his research and teaching. He has been awarded the Katayanagi Emerging Leadership Prize, Sloan Fellowship, NSF CAREER award, Microsoft Research New Faculty Fellowship, and several best paper awards at the premier HCI conferences (CHI and UIST). His former PhD students are leaders at top universities, research organizations, in Silicon Valley, and social entrepeneurship. He has a dual BA in Art-Semiotics and Computer Science from Brown University, Graphic Design work at RISD, and an MS and PhD in Computer Science from UC Berkeley. He is the program co-chair of UIST 2011.
+
+===== Description =====
+
+In this course, you will learn how to design technologies that bring people joy, rather than frustration. You'll learn several techniques for rapidly prototyping and evaluating multiple interface alternatives — and why rapid prototyping and comparative evaluation are essential to excellent interaction design. You'll learn how to conduct fieldwork with people to help you get design ideas. How to make paper prototypes and low-fidelity mock-ups that are interactive -- and how to use these designs to get feedback from other stakeholders like your teammates, clients, and users. You'll learn principles of visual design so that you can effectively organize and present information with your interfaces. You'll learn principles of perception and cognition that inform effective interaction design. And you'll learn how to perform and analyze controlled experiments online. In many cases, we'll use Web design as the anchoring domain. A lot of the examples will come from the Web, and we'll talk just a bit about Web technologies in particular. When we do so, it will be to support the main goal of this course, which is helping you build human-centered design skills, so that you have the principles and methods to create excellent interfaces with any technology.
+
+===== Provides =====
+
+* how to design technologies that bring people joy, rather than frustration:
+	* rapid prototyping and comparative evaluation
+	* conduct fieldwork with people to help you get design ideas
+	* make paper prototypes
+	* interactive low-fidelity mock-ups
+		* use these designs to get feedback from other stakeholders
+	* principles of visual design
+	* principles of perception and cognition
+	* perform and analyze controlled experiments online

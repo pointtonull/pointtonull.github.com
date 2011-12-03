@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-12-01T18:33:29-03:00
+
+====== Electrical Engr. ======
+
+Flowchart created from the objectives and requirements of each course.
+{{./diagram.png?type=diagram}}

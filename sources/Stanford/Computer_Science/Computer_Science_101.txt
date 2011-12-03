@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-12-01T00:02:36-03:00
+
+====== Computer Science 101 ======
+{{../pasted_image001.jpg}}
+
+===== Homepage =====
+
+http://www.cs101-class.org/
+
+===== Schedule =====
+
+* Starts: 02/2012
+
+===== Description =====
+
+CS101 teaches the essential ideas of Computer Science for a zero-prior-experience audience. Computers can appear very complicated, but in reality, computers work within just a few, simple patterns. CS101 demystifies and brings those patterns to life, which is useful for anyone using computers today.
+
+In CS101, students play and experiment with short bits of "computer code" to bring to life to the power and limitations of computers. Everything works within the browser, so there is no extra software to download or install. CS101 also provides a general background on computers today: what is a computer, what is hardware, what is software, what is the internet. No previous experience is required other than the ability to use a web browser.
+
+Here is [[https://www.youtube.com/watch?v=A9pMbRKq8Ro|another video]] Nick created for this class.
+
+===== Instructor =====
+
+* [[http://www-cs-faculty.stanford.edu/~nick|Nick Parlante]] has been teaching Computer Science at Stanford for over 20 years, and teaches programming best practices at Google. Nick has also produced the Google Python Class and codingbat.com code practice site, and the infamous Binky Pointer Fun video.
+
+===== Include =====
+
+* lecture videos, which may contain integrated quiz questions
+* standalone quizzes
+* programming assignments

@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-12-01T00:06:19-03:00
+
+====== Design and Analysis of Algorithms I ======
+
+{{../pasted_image006.jpg}}
+
+===== Homepage =====
+
+http://www.algo-class.org/
+
+===== Schedule =====
+
+* Starts: 23/01/2012
+
+===== Instructor =====
+
+* [[http://theory.stanford.edu/~tim/|Tim Roughgarden]], is an Associate Professor of Computer Science and (by courtesy) Management Science and Enginering at Stanford University, where he holds the Chambers Faculty Scholar development chair. At Stanford, he has taught the Design and Analysis of Algorithms course for the past eight years. His research concerns the theory and applications of algorithms, especially for networks, auctions and other game-theoretic applications, and data privacy. For his research, he has been awarded the ACM Grace Murray Hopper Award, the Presidential Early Career Award for Scientists and Engineers (PECASE), the Shapley Lecturership of the Game Theory Society, a Sloan Fellowship, INFORM's Optimization Prize for Young Researchers, and the Mathematical Programming Society's Tucker Prize.
+
+===== Provides =====
+
+* fundamental principles of algorithm design
+	* divide-and-conquer design paradigm
+		* fast sorting
+		* searching
+		* multiplication
+	* several blazingly fast primitives for computing on graphs
+		* how to compute connectivity information
+		* shortest paths
+	* how allowing the computer to "flip coins" can lead to elegant and practical algorithms and data structures
+	* how do data structures like heaps, hash tables, bloom filters, and balanced search trees actually work, anyway?
+	* how come QuickSort runs so fast?
+	* what can graph algorithms tell us about the structure of the Web and social networks?
+	* did my 3rd-grade teacher explain only a suboptimal algorithm for multiplying two numbers?
+
+===== Requires =====
+
+* programming in at least one programming language (like C, Java, or Python)
+* familiarity with proofs, including proofs by induction and by contradiction
+* some discrete probability, like how to compute the probability that a poker hand is a full house
+
+===== Bibliography =====
+
+* Kleinberg & Tardos Algorithm Design
+* Dasgupta, Papadimitriou & Vazirani Algorithms
+* Cormen, Leiserson, Rivest & Stein Introduction to Algorithms

@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-12-01T17:29:19-03:00
+
+====== Anatomy ======
+
+{{./pasted_image.jpg}}
+
+===== Homepage =====
+
+http://www.anatomy-class.org/
+
+===== Schedule =====
+
+Starts: 01/2012
+
+===== Description =====
+
+Anatomy is the most fundamental of all medical sciences. It provides the basic framework and vocabulary used in all descriptions and communications about the body. Anyone studying or working in the healthcare area or collaborating with the medical field will find this course of immense value.
+
+A variety of multimedia resources will be used to provide lucid descriptions of complex topics. Explicit learning objectives will be stated and embedded quizzes will aid in assessment. Students will be able to complete this course in a self-paced manner. This course will cover the region of upper limb. Subsequent courses will cover other body regions in a sequential manner.
+
+===== Requires =====
+
+* working knowledge of human biology
+
+===== Instructor =====
+
+Dr Srivastava has been affiliated with Stanford University since 1999. He has taught Anatomy and Surgery for nearly two decades to a variety of learners including medical students, resident doctors, healthcare professionals, and patients. More recently, Dr Srivastava has also taught students from engineering, design, arts and humanities background. His two primary research interests include use of learning technologies and human augmentation. Dr Srivastava trained as an Orthopaedic surgeon and currently serves as the Division Chief of Clinical Anatomy in the Department of Surgery at the Stanford University School of Medicine.
