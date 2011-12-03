@@ -104,7 +104,7 @@ tbody {
 
 /* estilo del menu */
 
-div.menu ul li a {
+div.menu ul li {
 	color: white;
 	text-decoration: none;
 	display: block;
