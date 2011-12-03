@@ -30,14 +30,6 @@
             <hr>
             <!-- Backlinks -->
             <div class="footer">
-                [% IF page.backlinks -%] Backlinks:
-                    [%- FOREACH link = page.backlinks -%]
-                        <a href='[% url(link) %]'>[% link.name %]</a></li>
-                    [%- END -%]
-                [%- ELSE -%]
-                    No backlinks to this page.
-                [%- END %]
-            <!-- End Backlinks -->
             </div>
         </div>
     </body>
