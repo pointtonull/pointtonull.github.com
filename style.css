@@ -155,6 +155,7 @@ tbody {
 
 
 #content img {
+    text-align: center;
 	clear: right;
 	float: right;
 	margin-left: 1em;
@@ -193,9 +194,5 @@ tbody {
 #contact-content img {
 	width: 48px;
 	height: 48px;
-}
-
-.im{
-    text-align: center;
 }
 
