@@ -111,14 +111,9 @@ div.menu ul li a {
 	background: darkred;
 	padding: 0.5em 0.5em;
 	margin: 0 0 1px 0;
-}
-
-div.menu ul ul {
-    visibility: visible;
-	padding: 0;
 	list-style: none;
 }
-		
+
 div.menu ul ul li a {
 	color: white;
 	text-decoration: none;
