@@ -35,7 +35,7 @@ p {
 
 h1 {
 	color: white;
-	background-color: #090;
+	background-color: black;
 	font-size: 2em;
 	margin: 0;
 	margin-bottom: 0.5em;
@@ -45,19 +45,19 @@ h1 {
 	letter-spacing: 0.5em;
 	border-bottom-style: solid;
 	border-bottom-width: 0.5em;
-	border-bottom-color: #0c0;
+	border-bottom-color: gray;
 }
 
 h2 {
 	color: white;
-	background-color: #090;
+	background-color: black;
 	font-size: 1.5em;
 	margin: 0;
 	padding: 0.1em;
 	padding-left: 1em;
 	border-bottom-style: solid;
 	border-bottom-width: 0.5em;
-	border-bottom-color: #0c0;
+	border-bottom-color: gray;
 }
 
 h3 {
