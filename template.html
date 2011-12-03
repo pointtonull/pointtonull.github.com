@@ -1,46 +1,46 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>[% page.title %]</title>
-		<meta name='Generator' content='Zim [% zim.version %]'>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>[% page.title %]</title>
+        <meta name='Generator' content='Zim [% zim.version %]'>
         <meta http-equiv="cache-control" content="no-cache">
         <link rel="stylesheet" type="text/css" href="http://pointtonull.github.com/style.css" />
-	</head>
-	<body>
-		<div class="page">
-			<div class="heading">
-				<h1><a href="[% url(pages.home.name) %]" class="notebook">[% notebook.name %]:</a>
-			
-				
-				[% IF page.properties.type == 'namespace-index' -%]
-					Document Index</h1>
-				[%- ELSE -%]
-					[% page.heading %]</h1>
-				[%- END %]
-			</div>
-			<hr>
-			<div class="menu">
-				[% pageindex() %]
-			</div>
-			<div class="content">
-			<!-- Wiki content -->
-				[% page.body %]
+    </head>
+    <body>
+        <div class="page">
+            <div class="heading">
+                <h1><a href="[% url(pages.home.name) %]" class="notebook">[% notebook.name %]:</a>
+            
+                
+                [% IF page.properties.type == 'namespace-index' -%]
+                    Document Index</h1>
+                [%- ELSE -%]
+                    [% page.heading %]</h1>
+                [%- END %]
+            </div>
+            <hr>
+            <div class="menu">
+                [% pageindex() %]
+            </div>
+            <div class="content">
+            <!-- Wiki content -->
+                [% page.body %]
 
-			<!-- End wiki content -->
-			</div>
-			<hr>
-			<!-- Backlinks -->
-			<div class="footer">
-				[% IF page.backlinks -%] Backlinks:
-					[%- FOREACH link = page.backlinks -%]
-						<a href='[% url(link) %]'>[% link.name %]</a></li>
-					[%- END -%]
-				[%- ELSE -%]
-					No backlinks to this page.
-				[%- END %]
-			<!-- End Backlinks -->
-			</div>
-		</div>
-	</body>
+            <!-- End wiki content -->
+            </div>
+            <hr>
+            <!-- Backlinks -->
+            <div class="footer">
+                [% IF page.backlinks -%] Backlinks:
+                    [%- FOREACH link = page.backlinks -%]
+                        <a href='[% url(link) %]'>[% link.name %]</a></li>
+                    [%- END -%]
+                [%- ELSE -%]
+                    No backlinks to this page.
+                [%- END %]
+            <!-- End Backlinks -->
+            </div>
+        </div>
+    </body>
 </html>
