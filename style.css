@@ -120,7 +120,7 @@ div.menu ul ul li a {
 	margin: 0 0 1px 0;
 }
 
-div.menu ul ul li a:active {
+div.menu ul ul li strong {
 	color: #00f;
 	text-decoration: none;
 	display: block;
