@@ -105,6 +105,10 @@ tbody {
 /* estilo del menu */
 
 div.menu ul li {
+    list-style:None;
+}
+
+div.menu ul li {
     visibility: visible;
     color: red;
 }
