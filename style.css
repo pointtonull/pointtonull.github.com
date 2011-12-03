@@ -106,6 +106,7 @@ tbody {
 
 div.menu ul li {
     visibility: visible;
+    color: red;
 }
 
 div.menu ul ul {
