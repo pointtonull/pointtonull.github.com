@@ -104,6 +104,9 @@ tbody {
 
 /* estilo del menu */
 
+div.menu ul li {
+    visibility: hidden;
+}
 
 div.menu ul ul {
 	padding: 0;
