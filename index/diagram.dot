@@ -4,5 +4,4 @@ digraph social {
 	Carlos -> Nilsa;
 	Carlos -> José [style=dotted];
 	Carlos -> Andrea;
-	Matias -> Nilsa;
 }
