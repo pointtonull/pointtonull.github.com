@@ -4,3 +4,5 @@ Creation-Date: 2011-12-01T18:44:10-03:00
 
 ====== Civil Engineering ======
 
+Flowchart created from the objectives and requirements of each course.
+{{./diagram.png?type=diagram}}
