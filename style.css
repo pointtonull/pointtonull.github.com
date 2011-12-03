@@ -146,7 +146,7 @@ div.menu ul ul li a {
 	text-decoration: none;
 	display: block;
 	background: black;
-	padding: 0.5em 0.5em 0.5em 1.0em;
+	padding: 0.5em 0.5em 0.5em 0.5em;
 	margin: 0 0 1px 0;
 }
 
@@ -154,7 +154,7 @@ div.menu ul ul li strong {
 	color: white;
 	display: block;
 	background: gray;
-	padding: 0.5em 0.5em 0.5em 1.0em;
+	padding: 0.5em 0.5em 0.5em 0.5em;
 	margin: 0 0 1px 0;
 }
 
