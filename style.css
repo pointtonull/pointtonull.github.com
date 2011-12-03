@@ -123,9 +123,9 @@ div.menu ul li a {
 }
 
 div.menu ul li strong {
-	color: red;
+	color: white;
 	display: block;
-	background: gray;
+	background: darkred;
 	padding: 0.5em 0.5em;
 	margin: 0 0 1px 0;
 }
