@@ -196,9 +196,7 @@ div.menu ul ul ul li strong {
 div.content p img {
 	border-color: black; 
 	border-style: hidden;
-	border-top-width: 0;
-	border-width: 2px;
-	clear: right;
     max-width: 670px;
-    text-align: center;
+    display: block;
+    margin: auto;
 } 
