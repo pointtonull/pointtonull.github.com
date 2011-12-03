@@ -45,7 +45,6 @@ h1 {
 	padding: 0.25em;
 	font-style: italic;
 	text-align: center;
-	letter-spacing: 0.5em;
 	border-bottom-style: solid;
 	border-bottom-width: 0.5em;
 	border-bottom-color: gray;
@@ -111,6 +110,11 @@ div.menu ul ul {
 	list-style: none;
 }
 		
+div.menu ul ul li a:hover {
+    background: white;
+    color: gray;
+}
+
 div.menu ul ul li a {
 	color: white;
 	text-decoration: none;
@@ -148,22 +152,6 @@ div.menu ul ul ul li strong {
 	margin: 0 0 1px 0;
 }
 
-
-
-}
-
-#menu ul li {
-	color: white;
-	font-weight: bold;
-}	
-
-#menu a:visited {
-	color: #ccc;
-}
-		
-#menu a:hover {
-	background: #0c0;
-}
 
 /* estilo del contenido*/
 
