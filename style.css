@@ -5,8 +5,7 @@ body {
 	font-family: arial, helvetica, sans-serif;
 	font-size: 80%;
 	color: black;
-	background-image: url(../images/background.png);
-	background-repeat: repeat-x;
+    background: url("../images/background.png") repeat-x scroll 0 0 #EFEFEF;
 	margin: 1em;
 	padding: 0;
 }
