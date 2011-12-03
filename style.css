@@ -14,7 +14,7 @@ body {
     color: gray;
 }
 
-.menu{
+div.menu {
     float: left;
     width: 300px;
 }
@@ -120,6 +120,15 @@ div.menu ul ul li a {
 	margin: 0 0 1px 0;
 }
 
+div.menu ul ul ul li a {
+	color: white;
+	text-decoration: none;
+	display: block;
+	background: white;
+	padding: 0.5em 0.5em;
+	margin: 0 0 1px 0;
+}
+
 #menu ul a.actual {
 	color: #00f;
 	text-decoration: none;
@@ -156,12 +165,10 @@ div.menu ul ul li a {
 
 div.content p img {
 	border-color: black; 
-	border-style: solid;
+	border-style: hidden;
 	border-top-width: 0;
 	border-width: 2px;
 	clear: right;
-	float: right;
-	margin-left: 1em;
     max-width: 670px;
     text-align: center;
 } 
