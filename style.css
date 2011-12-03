@@ -184,35 +184,3 @@ div.content p img {
     max-width: 670px;
     text-align: center;
 } 
-
-/* estilo de la pagina de contactos*/
-
-#contact-content {
-	margin: 0 0 0 21em;
-}
-
-#contact-content table {
-	padding: 1em;
-	list-style: none; 	
-}
-
-#contact-content table td {
-	font-style: normal;
-	font-weight: bold;
-	text-align: center;
-	padding: 0 1em;
-}
-
-#contact-content table a {
-	display: block;
-}
-
-#contact-content table a:hover {
-	display: table-cell;
-}
-
-#contact-content img {
-	width: 48px;
-	height: 48px;
-}
-
