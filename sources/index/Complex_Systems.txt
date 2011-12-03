@@ -4,4 +4,3 @@ Creation-Date: 2011-12-01T18:44:24-03:00
 
 ====== Complex Systems ======
 
-* [[+Model Thinking|Model Thinking]]

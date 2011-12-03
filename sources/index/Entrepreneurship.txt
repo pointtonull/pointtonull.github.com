@@ -4,5 +4,4 @@ Creation-Date: 2011-12-01T18:33:39-03:00
 
 ====== Entrepreneurship ======
 
-* [[+Technology Entrepreneurship|Technology Entrepreneurship]]
-* [[+The Lean Launchpad|The Lean Launchpad]]
+

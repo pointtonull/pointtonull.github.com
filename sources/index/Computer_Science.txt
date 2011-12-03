@@ -4,18 +4,7 @@ Creation-Date: 2011-12-01T17:48:36-03:00
 
 ====== Computer Science ======
 
-* [[+Artificial_Intelligence|Artificial Intelligence]]
-* [[+Computer_Science_101|Computer Science 101]]
-* [[+Computer_Security|Computer Security]]
-* [[+Cryptography|Cryptography]]
-* [[+Design_and_Analysis_of_Algorithms_I|Design and Analysis of Algorithms I]]
-* [[+Game_Theory|Game Theory]]
-* [[+Human-Computer_Interaction|Human-Computer Interaction]]
-* [[+Introduction_to_Databases|Introduction to Databases]]
-* [[+Machine_learning|Machine learning]]
-* [[+Natural_Language_Processing|Natural Language Processing]]
-* [[+Probabilistic_Graphical_Models|Probabilistic Graphical Models]]
-* [[+Software_as_a_Service|Software as a Service]]
+
 
 Flowchart created from the objectives and requirements of each course.
 {{./diagram.png?type=diagram}}

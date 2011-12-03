@@ -21,28 +21,3 @@ La Universidad de Stanford decidió abrir varios de sus más populares cursos a 
 
 ==== Grupo: ====
 {{./diagram.png?type=diagram}}
-
-* [[+Civil Engineering|Civil Engineering]]
-	* [[+Civil Engineering:Making Green Buildings|Making Green Buildings]]
-* [[+Complex Systems|Complex Systems]]
-	* [[+Complex Systems:Model Thinking|Model Thinking]]
-* [[+Computer Science|Computer Science]]
-	* [[+Computer_Science:Artificial_Intelligence|Artificial Intelligence]]
-	* [[+Computer_Science:Computer_Science_101|Computer Science 101]]
-	* [[+Computer_Science:Computer_Security|Computer Security]]
-	* [[+Computer_Science:Cryptography|Cryptography]]
-	* [[+Computer_Science:Design_and_Analysis_of_Algorithms_I|Design and Analysis of Algorithms I]]
-	* [[+Computer_Science:Game_Theory|Game Theory]]
-	* [[+Computer_Science:Human-Computer_Interaction|Human-Computer Interaction]]
-	* [[+Computer_Science:Introduction_to_Databases|Introduction to Databases]]
-	* [[+Computer_Science:Machine_learning|Machine learning]]
-	* [[+Computer_Science:Natural_Language_Processing|Natural Language Processing]]
-	* [[+Computer_Science:Probabilistic_Graphical_Models|Probabilistic Graphical Models]]
-	* [[+Computer_Science:Software_as_a_Service|Software as a Service]]
-* [[+Electrical Engr.|Electrical Engr.]]
-	* [[+Electrical Engr.:Information Theory|Information Theory]]
-* [[+Entrepreneurship|Entrepreneurship]]
-	* [[+Entrepreneurship:Technology Entrepreneurship|Technology Entrepreneurship]]
-	* [[+Entrepreneurship:The Lean Launchpad|The Lean Launchpad]]
-* [[+Medicine|Medicine]]
-	* [[+Medicine:Anatomy|Anatomy]]
