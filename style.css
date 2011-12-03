@@ -125,17 +125,12 @@ div.menu ul ul li a {
 
 div.menu ul ul li strong {
 	color: white;
-	text-decoration: none;
-	display: block;
 	background: gray;
-	padding: 0.5em 0.5em;
-	margin: 0 0 1px 0;
 }
 
 
 div.menu ul ul ul li a {
 	color: black;
-	text-decoration: none;
 	display: block;
 	background: white;
 	padding: 0.5em 0.5em 0.5em 1.5em;
@@ -144,11 +139,7 @@ div.menu ul ul ul li a {
 
 div.menu ul ul ul li strong {
 	color: black;
-	text-decoration: none;
-	display: block;
 	background: white;
-	padding: 0.5em 0.5em 0.5em 1.5em;
-	margin: 0 0 1px 0;
 }
 
 
