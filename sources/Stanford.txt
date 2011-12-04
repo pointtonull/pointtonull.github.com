@@ -18,6 +18,3 @@ La Universidad de Stanford decidió abrir varios de sus más populares cursos a 
 
 	* están en inglés (aunque la mayoría ofrecen transcripciones de los videos y hasta traducciones)
 	* son un poco intensivos
-
-==== Grupo: ====
-{{./diagram.png?type=diagram}}
