@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2012-01-23T18:31:07-03:00
+
+====== postergaciones ======
+Created lunes 23 enero 2012
+
+Los cursos que planeaban comenzar el dictado de clases durante Enero o a
+comienzos de Febrero están anunciando retrasos indefinidos debido a cuestiones
+administrativas. Todos ellos se muestran optimistas por la enorme cantidad de inscriptos y la calidad y cantidad de material disponible. Los que enviaron mails son los siguientes:
+
+	* Cryptography (58.000 inscriptos)
+	* Design and Analysis of Algorithms I (50.000 inscriptos)
+	* Model Thinking (40.000 inscriptos)
+	* Natural Lenguaje Processing (45.000 inscriptos)
+	* Probabilistic Graphical Models (35.000 inscriptos)
+	* Technology Entrepreneurship (67.000 inscriptos)
+
+Estoy recibendo muy pocas respuestas, imagino que debido a las vacaciones y espero pronto podamos organizarnos seriamente.
+
+Les invito a que tomen la iniciativa y se inscriban en todos los cursos que les interesen. Toda la documentación está disponible en: http://freecourses.no-ip.org/ 
