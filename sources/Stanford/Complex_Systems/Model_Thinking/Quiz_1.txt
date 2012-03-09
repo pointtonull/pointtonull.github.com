@@ -4,10 +4,10 @@ Creation-Date: 2012-03-09T20:46:07-03:00
 
 ====== Quiz 1 ======
 
-[[+Lecture1]]
-[[+Lecture2]]
-[[+Lecture3]]
-[[+Lecture4]]
+* [[+Lecture1]]
+* [[+Lecture2]]
+* [[+Lecture3]]
+* [[+Lecture4]]
 
 ===== Question 1 =====
 
