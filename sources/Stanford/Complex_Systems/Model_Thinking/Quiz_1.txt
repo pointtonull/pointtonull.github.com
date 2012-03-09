@@ -1,0 +1,88 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2012-03-09T20:46:07-03:00
+
+====== Quiz 1 ======
+
+[[+Lecture1]]
+[[+Lecture2]]
+[[+Lecture3]]
+[[+Lecture4]]
+
+===== Question 1 =====
+
+Who developed the racial and income segregation model that we covered in lecture 2?
+
+===== Question 2 =====
+
+Imagine a city comprised of four equal sized blocks. One block contains all rich people. One block contains all poor people, and two blocks contain equal numbers of poor and rich people. What is the index of dissimilarity? (answer using decimal notation)
+
+===== Question 3 =====
+
+Recall the standing ovation model. Suppose that individuals stand if their perceived quality of the show exceeds 60. Approximately what percentage of people stand initially, if perceptions of quality are uniformly distributed between zero and one hundred? (In a uniform distribution, each number of people standing will be equally likely).
+
+    ( ) 50
+    ( ) 40
+    ( ) 60
+
+===== Question 4 =====
+
+Does increasing the variation in perceptions of quality always increase the number of people initially standing in our standing ovation model?
+
+    No
+    Yes
+
+===== Question 5 =====
+
+I keep data on the number of people who show up at two sub shops each Saturday. Big Mike's draws an average of 500 people with a standard deviation of 20. Little John's draws an average of only 400 with a standard deviation of 50. If both distributions are normal, which shop is more likely to attract more than 600 people on a given Saturday?
+
+    Little John's
+    Big Mike's
+
+===== Question 6 =====
+
+In the game of life, the world begins with four sites in a row in the alive state, and no other sites alive. What state is the world in after twenty updates?
+
+    There are six live cells in three rows
+    The same four cells are alive
+    No cells are alive
+    The cells blink on and off
+
+===== Question 7 =====
+
+Which of the following classes of outcomes can Wolfram's simple one dimensional cellular automata produce?
+
+    Randomness
+    Equilibrium
+    Periodic Orbits/ Patterns
+    Complexity
+
+===== Question 8 =====
+
+Given three alternatives, A,B, and C, there exist 6 possible strict preference orderings A>B>C, A>C>B, B>C>A, B>A>C, C>A>B, and C>B>A. Suppose that there exist three voters. One has preferences A>B>C. Another has preferences B>C>A. Preferences of the third are not known. She could have any of the six described above. How many of these six possible preference orderings would produce a voting cycle, where majority vote would lead to A defeats B, B defeats C, and C
+defeats A?
+
+    2
+    1
+    4
+
+===== Question 9 =====
+
+About which of the following attributes of a computer would someone likely have SPATIAL preferences?
+
+    Battery Life
+    Screen Size
+    Processing Speed
+    Special Keys on Keyboard
+
+===== Question 10 =====
+
+You have only $80. You can choose to drive to Detroit to go to a concert or you can stay at home. The cost of driving will be $30. When you get to the concert, there's a 40% chance you'll be able to get a ticket for $50. There's a 60% chance that tickets will be more than $50. If it's worth $130 to you to go to the concert, what's your expected value of driving to Detroit and trying to buy a ticket?
+
+===== Question 11 =====
+
+How many possible preference ORDERINGS (i.e. preferences that satisfy transitivity) exist for four alternatives?
+
+===== Question 12 =====
+
+Suppose that each of 400 people is equally likely to vote yes or no on a school funding election. What's the size of a standard deviation for the total number of yes votes?
