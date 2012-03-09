@@ -93,6 +93,11 @@ th.line {
 	border-bottom-style: solid;	
 }
 
+html body div.page div.content u{
+    background: yellow;
+    text-decoration: none;
+}
+
 th {
 	text-align: left;
 	color: #009;	
