@@ -1,0 +1,69 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2012-03-08T23:00:38-03:00
+
+====== Lecture 1 ======
+
+
+===== Why Model? =====
+
+The first question that arises frequently--sometimes innocently and sometimes not--is simply, "Why model?" Imagining a rhetorical (non-innocent) inquisitor, my favorite retort is, "You are a modeler." Anyone who ventures a projection, or imagines how a social dynamic--an epidemic, war, or migration--would unfold is running some model.  But typically, it is an implicit model in which the assumptions are hidden, their internal consistency is untested, their logical consequences are unknown, and their relation to data is unknown. But, **when you close your eyes and imagine an epidemic spreading, or any other social dynamic, you are running some model or other. It is just an implicit model that you haven't written down.**
+
+This being the case, I am always amused when these same people challenge me with the question, "Can you validate your model?" The appropriate retort, of course, is, "Can you validate yours?" At least I can write mine down so that it can, in principle, be calibrated to data, if that is what you mean by "validate," a term I assiduously avoid (good Popperian that I am).
+
+**The choice, then, is not whether to build models; it's whether to build explicit ones.** In explicit models, assumptions are laid out in detail, so we can study exactly what they entail. On these assumptions, this sort of thing happens. When you alter the assumptions that is what happens. By writing explicit models, you let others replicate your results.  You can in fact calibrate to historical cases if there are data, and can test against current data to the extent that exists. And, importantly, you can incorporate the best domain (e.g., biomedical, ethnographic) expertise in a rigorous way. Indeed, models can be the focal points of teams involving experts from many disciplines.
+
+Senior Fellow in Economic Studies and Director of the Center on Social and Economic Dynamics, the Brookings Institution, and External Professor, The Santa Fe Institute. I thank Ross A. Hammond for insightful comments.  Another advantage of explicit models is the feasibility of sensitivity analysis. One can sweep a huge range of parameters over a vast range of possible scenarios to identify the most salient uncertainties, regions of robustness, and important thresholds. I don't see how to do that with an implicit mental model. It is important to note that in the policy sphere (if not in particle physics) models do not obviate the need for judgment. However, by revealing tradeoffs, uncertainties, and sensitivities, models can discipline the dialogue about options and make unavoidable judgments more considered.
+
+==== Can You Predict? ====
+
+No sooner are these points granted than the next question inevitably arises: "But can you predict?" For some reason, the moment you posit a model, prediction --as in a crystal ball that can tell the future-- is reflexively presumed to be your goal. Of course, prediction might be a goal, and it might well be feasible, particularly if one admits statistical prediction in which stationary distributions (of wealth or epidemic sizes, for instance) are the regularities of interest. I'm sure that before Newton, people would have said "the orbits of the planets will never be predicted." I don't see how macroscopic prediction --pacem Heisenberg-- can be definitively and eternally precluded.
+
+==== Sixteen Reasons Other Than Prediction to Build Models ====
+
+But, more to the point, I can quickly think of 16 reasons other than prediction (at least in this bald sense) to build a model. In the space afforded, I cannot discuss all of these, and some have been treated en passant above. But, off the top of my head, and in no particular order, such modeling goals include:
+
+	* Explain (very distinct from predict)
+	* **Guide data collection**
+	* Illuminate core dynamics
+	* Suggest dynamical analogies
+	* Discover new questions
+	* **Promote a scientific habit of mind**
+	* Bound (bracket) outcomes to plausible ranges
+	* Illuminate core uncertainties.
+	* **Offer crisis options in near-real time**
+	* Demonstrate tradeoffs / suggest efficiencies
+	* Challenge the robustness of prevailing theory through perturbations
+	* Expose prevailing wisdom as incompatible with available data
+	* Train practitioners
+	* **Discipline the policy dialogue**
+	* Educate the general public
+	* Reveal the apparently simple (complex) to be complex (simple)
+
+==== Explanation Does Not Imply Prediction ====
+
+One crucial distinction is between explain and predict. Plate tectonics surely explains earthquakes, but does not permit us to predict the time and place of their occurrence.  Electrostatics explains lightning, but we cannot predict when or where the next bolt will strike. In all but certain (regrettably consequential) quarters, evolution is accepted as explaining speciation, but we cannot even predict next year's flu strain. In the social sciences, I have tried to articulate and to demonstrate an approach I call generative explanation, in which macroscopic explananda --large scale regularities such as wealth distributions, spatial settlement patterns, or epidemic dynamics-- emerge in populations of heterogeneous software individuals (agents) interacting locally under plausible behavioral rules1. For example, the computational reconstruction of an ancient civilization (the Anasazi) has been accomplished by this agent-based approach2. I consider this model to be explanatory, but I would not insist that it is predictive on that account. This work was data-driven. But I don't think that is necessary.
+
+==== To Guide Data Collection ====
+
+On this point, many non-modelers, and indeed many modelers, harbor a naïve inductivism that might be paraphrased as follows: 'Science proceeds from observation, and then models are constructed to 'account for' the data.' The social science rendition-- with which I am most familiar--would be that one first collects lots of data and then runs regressions on it. This can be very productive, but it is not the rule in science, where theory often precedes data collection. Maxwell's electromagnetic theory is a prime example. From his equations the existence of radio waves was deduced. Only then were they sought...and found! General relativity predicted the deflection of light by gravity, which was only later confirmed by experiment. Without models, in other words, it is not always clear what data to collect!
+
+==== Illuminate Core Dynamics: All the Best Models are Wrong ====
+
+Simple models can be invaluable without being "right," in an engineering sense. Indeed, by such lights, all the best models are wrong. But they are fruitfully wrong. They are illuminating abstractions. I think it was Picasso who said, "Art is a lie that helps us see the truth." So it is with many simple beautiful models: the Lotka-Volterra ecosystem model, Hooke's Law, or the Kermack-McKendrick epidemic equations. They continue to form the conceptual foundations of their respective fields. They are universally taught: mature practitioners, knowing full-well the models' approximate nature, nonetheless entrust to them the formation of the student's most basic intuitions. And this because they capture qualitative behaviors of overarching interest, such as predator-prey cycles, or the nonlinear threshold nature of epidemics and the notion of herd immunity. Again, the issue isn't idealization--all models are idealizations. The issue is whether the model offers a fertile idealization. As George Box famously put it, "All models are wrong, but some are useful."
+
+==== Suggest Analogies ====
+
+It is a startling and wonderful fact that a huge variety of seemingly unrelated processes have formally identical models (i.e., they can all be seen as interpretations of the same underlying formalism). For example, electrostatic attraction under Coulomb's Law and gravitational attraction under Newton's Law have the same algebraic form. The physical diversity of diffusive processes satisfying the "heat" equation or of oscillatory processes satisfying the "wave" equation is virtually boundless. In his economics Nobel Lecture, Samuelson writes that, "if you look at the monopolistic firm as an example of a maximum system, you can connect up its structural relations with those that prevail for an entropy-maximizing thermodynamic system...absolute temperature and entropy have to each other the same conjugate or dual relation that the wage rate has to labor or the land rent has to acres of land." One diagram, in his words, does "double duty, depicting the economic relationships as well as the thermodynamic ones."3 In developing the Anasazi model noted earlier, my colleagues and I made a "computational analogy" between the well-known Sugarscape model4 and the actual MaiseScape on which the ancient Anasazi lived.
+
+I am suggesting that analogies are more than beautiful testaments to the unifying power of models: they are headlights in dark unexplored territory. For instance, there is a powerful theory of infectious diseases. Do revolutions, or religions, or the adoption of innovations unfold like epidemics? Is it useful to think of these processes as formal analogues? If so, then a powerful pre-existing theory can be brought to bear on the unexplored field, perhaps leading to rapid advance.
+
+==== Raise New Questions ====
+
+Models can surprise us, make us curious, and lead to new questions. This is what I hate about exams. They only show that you can answer somebody else's question, when the most important thing is: Can you ask a new question? It's the new questions (e.g., Hilbert's Problems) that produce huge advances, and models can help us discover them.
+
+==== From Ignorant Militance to Militant Ignorance ====
+
+To me, however, the most important contribution of the modeling enterprise--as distinct from any particular model, or modeling technique--is that it enforces a scientific habit of mind, which I would characterize as one of militant ignorance--an iron commitment to "I don't know." That all scientific knowledge is uncertain, contingent, subject to revision, and falsifiable in principle. (This, of course, does not mean readily falsified. It means that one can in principle specify observations that, if made, would falsify it). One does not base beliefs on authority, but ultimately on evidence. This, of course, is a very dangerous idea. It levels the playing field, and permits the lowliest peasant to challenge the most exalted ruler--obviously an intolerable risk.
+
+This is why science, as a mode of inquiry, is fundamentally antithetical to all monolithic intellectual systems. In a beautiful essay5, Feynman talks about the hard-won "freedom to doubt." It was born of a long and brutal struggle, and is essential to a functioning democracy. Intellectuals have a solemn duty to doubt, and to teach doubt. Education, in its truest sense, is not about "a saleable skill set." It's about freedom, from inherited prejudice and argument by authority. This is the deepest contribution of the modeling enterprise. It enforces habits of mind essential to freedom.
