@@ -1,5 +1,7 @@
+La búsqueda de la excelencia en la programación
+===============================================
+
 Date: 2010/07/14
-Title: La búsqueda de la excelencia en la programación
 
 ![La búsqueda de la excelencia en la programación](http://arnet.no-ip.org/blog/tunnedbrain.png)
 
