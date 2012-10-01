@@ -1,13 +1,15 @@
 Date: 2010/07/14
 Title: La búsqueda de la excelencia en la programación
 
-Encontré hace poco este excelente articulo escrito por Antonio Cangiano en
-su blog "El zen de la programación". Es una invitación para realizar la
-reflexión que todos nos debemos a nosotros mismos. El lucido planteo sobre
-la naturaleza de la inteligencia y del aprendizaje le bastaría para ser
-meritorio pero, no conforme con eso y aprovechando lo dinámico y fluido de
-su estilo, el autor presenta sus estrategias y métodos en la búsqueda de la
-excelencia en la programación; métodos que yo ya he comenzado a aplicar
+Encontré hace poco este [excelente
+articulo](http://programmingzen.com/2010/07/04/the-pursuit-of-excellence-in-programming/)
+escrito por Antonio Cangiano en su blog [El zen de la
+programación](http://programmingzen.com). Es una invitación para realizar
+la reflexión que todos nos debemos a nosotros mismos. El lucido planteo
+sobre la naturaleza de la inteligencia y del aprendizaje le bastaría para
+ser meritorio pero, no conforme con eso y aprovechando lo dinámico y fluido
+de su estilo, el autor presenta sus estrategias y métodos en la búsqueda de
+la excelencia en la programación; métodos que yo ya he comenzado a aplicar
 felizmente.
 
 Como no soy del todo egoísta, y en sintonía con mis convicciones sobre las

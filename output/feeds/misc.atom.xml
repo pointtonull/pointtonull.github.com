@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>pointtonull's buglist</title><link href="http://pointtonull.github.com/output/" rel="alternate"></link><link href="http://pointtonull.github.com/output/feeds/misc.atom.xml" rel="self"></link><id>http://pointtonull.github.com/output/</id><updated>2010-07-14T00:00:00-03:00</updated><entry><title>La búsqueda de la excelencia en la programación</title><link href="http://pointtonull.github.com/output/la-busqueda-de-la-excelencia-en-la-programacion.html" rel="alternate"></link><updated>2010-07-14T00:00:00-03:00</updated><author><name>PointToNull</name></author><id>tag:pointtonull.github.com/output,2010-07-14:la-busqueda-de-la-excelencia-en-la-programacion.html</id><summary type="html">&lt;p&gt;Encontré hace poco este excelente articulo escrito por Antonio Cangiano en
-su blog "El zen de la programación". Es una invitación para realizar la
-reflexión que todos nos debemos a nosotros mismos. El lucido planteo sobre
-la naturaleza de la inteligencia y del aprendizaje le bastaría para ser
-meritorio pero, no conforme con eso y aprovechando lo dinámico y fluido de
-su estilo, el autor presenta sus estrategias y métodos en la búsqueda de la
-excelencia en la programación; métodos que yo ya he comenzado a aplicar
+<feed xmlns="http://www.w3.org/2005/Atom"><title>pointtonull's buglist</title><link href="http://pointtonull.github.com/output/" rel="alternate"></link><link href="http://pointtonull.github.com/output/feeds/misc.atom.xml" rel="self"></link><id>http://pointtonull.github.com/output/</id><updated>2010-07-14T00:00:00-03:00</updated><entry><title>La búsqueda de la excelencia en la programación</title><link href="http://pointtonull.github.com/output/la-busqueda-de-la-excelencia-en-la-programacion.html" rel="alternate"></link><updated>2010-07-14T00:00:00-03:00</updated><author><name>PointToNull</name></author><id>tag:pointtonull.github.com/output,2010-07-14:la-busqueda-de-la-excelencia-en-la-programacion.html</id><summary type="html">&lt;p&gt;Encontré hace poco este &lt;a href="http://programmingzen.com/2010/07/04/the-pursuit-of-excellence-in-programming/"&gt;excelente
+articulo&lt;/a&gt;
+escrito por Antonio Cangiano en su blog &lt;a href="http://programmingzen.com"&gt;El zen de la
+programación&lt;/a&gt;. Es una invitación para realizar
+la reflexión que todos nos debemos a nosotros mismos. El lucido planteo
+sobre la naturaleza de la inteligencia y del aprendizaje le bastaría para
+ser meritorio pero, no conforme con eso y aprovechando lo dinámico y fluido
+de su estilo, el autor presenta sus estrategias y métodos en la búsqueda de
+la excelencia en la programación; métodos que yo ya he comenzado a aplicar
 felizmente.&lt;/p&gt;
 &lt;p&gt;Como no soy del todo egoísta, y en sintonía con mis convicciones sobre las
 ventajas de compartir el conocimiento, me pareció buena idea traducirlo y
