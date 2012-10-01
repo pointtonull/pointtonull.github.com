@@ -66,24 +66,24 @@ presumir que sus pequeños son varias desviaciones estándar mejores que la
 media, pero condicionar a los niños de esta manera tiene consecuencias
 peligrosas y contraproducentes.
 
-Los niños que son etiquetados y alabados por sus “capacidades innatas”,
+Los niños que son etiquetados y alabados por sus "capacidades innatas",
 sufrirán de un exceso de confianza que afectará su habilidad para
 desafiarse a si mismos a través de las profundidades de lo desconocido
 porque sentirán que podrían poner en peligro su estatus. ¿Que sucederá si
 fallan? Significaría, a sus ojos, que tal vez no son las personas
 inteligentes que suponían ser. Todos vimos a estos niños fallar para,
-rápidamente, inventar excusas como “Oh, no lo estaba intentando en
-realidad”.
+rápidamente, inventar excusas como "Oh, no lo estaba intentando en
+realidad".
 
 Un padre que cultiva el interés de un niño por el trabajo duro
-probablemente aliente a su hijo con palabras como “Está bien. Sigue
-estudiando y definitivamente lo harás mejor la próxima vez”. Un padre
+probablemente aliente a su hijo con palabras como "Está bien. Sigue
+estudiando y definitivamente lo harás mejor la próxima vez". Un padre
 proponiendo un modelo de inteligencia estática puede justificar las fallas
-de sus hijos en determinado tema concluyendo que “quizás X no es lo
-tuyo”.[^1]
+de sus hijos en determinado tema concluyendo que "quizás X no es lo
+tuyo".[^1]
 
-[1]: Estos conceptos son explicados, aunque en forma mucho más elocuente, en
-los primeros capítulos del excelente libro El arte de aprender de Josh
+[^1]: Estos conceptos son explicados, aunque en forma mucho más elocuente,
+en los primeros capítulos del excelente libro El arte de aprender de Josh
 Waitzkin.
 
 Al enfrentar una derrota el chico de la “inteligencia estática” puede
@@ -110,13 +110,13 @@ cuenta con bastante rapidez. El problema real fue que no me enseñaron el
 valor del esfuerzo intelectual a largo plazo. El esfuerzo en si mismo era
 considerado un detrimento a mi estatus. No solo se esperaba que yo tuviera
 éxito sino que se esperaba que lo lograra sin esfuerzo (un ambición
-“utópica”).
+"utópica").
 
-Uno de los primeros ejemplos de esto que puedo recordar cuando mi padre “me
-sorprendió estudiando” por unas horas el mismo libro antes de un examen en
-la escuela intermedia. El me dijo algo así como “¿Porque necesitas
+Uno de los primeros ejemplos de esto que puedo recordar cuando mi padre "me
+sorprendió estudiando" por unas horas el mismo libro antes de un examen en
+la escuela intermedia. El me dijo algo así como "¿Porque necesitas
 estudiar? Un genio como tu debería resolver el examen sin tener que
-estudiar”. Esto es absurdo, ahora lo sé, y probablemente es una de las
+estudiar". Esto es absurdo, ahora lo sé, y probablemente es una de las
 cosas más tontas que mi padre —por lo demás bastante lucido— me dijo. Sin
 embargo una oración así puede tener un fuerte impacto en un joven.
 
@@ -125,13 +125,13 @@ la clásica loca de los gatos; no le tuve respeto desde el comienzo. Por eso
 no presté atención en clases, además de no estudiar latín en casa, yo gesté
 mi propio fracaso. Cuando llegó la primera evaluación, obtuve una
 calificación ligeramente negativa. Mi menos que profesional profesora me
-dijo: “Oh, pensé que eras muy bueno pero supongo que no”. Después mi padre
-puso su parte diciendo algo así como: “Bueno, no te preocupes, supongo que
-los idiomas no son tu fuerte”.
+dijo: "Oh, pensé que eras muy bueno pero supongo que no". Después mi padre
+puso su parte diciendo algo así como: "Bueno, no te preocupes, supongo que
+los idiomas no son tu fuerte".
 
 Boom. Esto me bastó para dejar de interesarme en Latín e ignorar
 completamente una materia en la que no era excelente. Nadie podría decirme
-“eres estúpido porque no entiendes Latín” si yo no lo intentaba en
+"eres estúpido porque no entiendes Latín" si yo no lo intentaba en
 absoluto. Entonces fui el chico del secundario que hacía cálculos avanzados
 por si mismo por diversión, mientras mi clase se complicaba con Álgebra,
 pero que apestaba en Latín. En retrospectiva, los patrones de pensamiento
@@ -146,7 +146,7 @@ combinando talento y esfuerzo. La verdadera genialidad es ser capaces de
 dedicar cientas de horas de estudio y practica a lo que se está intentando
 aprender y entender. 
 
-Miguel Ángel escribió:
+Miguel Ángel:
 
 > Si la gente supiera cuan duro he trabajado para lograr mi destreza, no la
 > encontrarían tan maravillosa en absoluto
@@ -165,10 +165,12 @@ cambiar enteramente mi actitud hacia el aprendizaje si me quería encumbrar
 en alguna de estas disciplinas. El esfuerzo era ahora más importante que la
 inteligencia por sí sola y solo debo sentirme satisfecho si hago un buen
 trabajo intentando algo realmente desafiante; esto no puede ser alcanzado
-con solo "talento".  Calogero C’ Anello de A Bronx Tale escribió:
+con solo "talento".
 
-Lo más triste en la vida es el talento desperdiciado, y las decisiones que
-tomas marcarán tu vida para siempre.
+Calogero C’ Anello de A Bronx Tale escribió:
+
+> Lo más triste en la vida es el talento desperdiciado, y las decisiones que
+> tomas marcarán tu vida para siempre.
 
 En el proceso, comencé a internalizar algunos principios y me ocupé de
 problemas sobre el arte de aprender y el arte de la programación.
@@ -182,8 +184,8 @@ cual las personas que no tienen experiencia o son menos competentes en una
 disciplina dada tienden a sobrestimar sus habilidades (se ven, en otras
 palabras, afectados por una superioridad ilusoria[^3].
 
-[2]: El efecto Dunning-Kruger en Wikipedia.
-[3]: Superioridad ilusoria en Wikipedia (en inglés).
+[^2]: El efecto Dunning-Kruger en Wikipedia.
+[^3]: Superioridad ilusoria en Wikipedia (en inglés).
 
 La contracara es que cuanto más estudias más te das cuenta de lo poco que
 sabes y de cuanto más te falta aprender (un concepto propuesto por Sócrates
@@ -194,7 +196,9 @@ desagradable con el que todos los aprendientes tienen que vivir. La duda es
 el agua que es fundamental para el crecimiento de la flor de la curiosidad
 intelectual[^4].
 
-[4]: Por más sobre la importancia de la duda en la ciencia, echa un vistazo al bello epilogo en ¿Que te importa lo que piensan los demás? por Richard P. Feynman.
+[^4]: Por más sobre la importancia de la duda en la ciencia, echa un vistazo
+al bello epilogo en ¿Que te importa lo que piensan los demás? por Richard
+P. Feynman.
 
 Mi enfoque en este caso es abrazar y dominar mi ignorancia y mis miedos.
 Siempre que hay un concepto del que me siento particularmente ignorante, o
@@ -311,7 +315,7 @@ para recordarme que no debo distraerme con internet. Para mí, la
 profundidad y el enfoque requerido por los libros es también un antídoto
 para el re-cableado que la red tiende a hacer en nuestro cerebro[^5].
 
-[5]: Por más sobre este fenómeno lee Lo superficial: lo que Internet le está haciendo a nuestro cerebro por Nicholas Carr.
+[^5]: Por más sobre este fenómeno lee Lo superficial: lo que Internet le está haciendo a nuestro cerebro por Nicholas Carr.
 
 A propósito, hace pocos días Amazon anunció el nuevo Kindle DX de grafito
 de color[^6]. Creo que puedo hacer un desembolso y tenerlo para mi próximo
@@ -322,7 +326,7 @@ papel y el dispositivo no es tan distrayente como un iPad (un Kindle es
 para leer, y eso es todo). Además, es más ligero que la mayoría de libros
 técnicos y seguramente ocupa menos espacio en casa.
 
-[6]: El nuevo Kindle DX en Amazon.
+[^6]: El nuevo Kindle DX en Amazon.
 
 
 Logrando el enfoque
@@ -347,8 +351,8 @@ cuando 25 minutos (un pomodoro) han pasado, y me da cinco minutos de
 descanso por cada pomodoro. Cada 4 pomodoros puedo tomarme un descanso más
 largo.
 
-[7]: La técnica Pomodoro.
-[8]: Pomodoro para Mac OS X.
+[^7]: La técnica Pomodoro.
+[^8]: Pomodoro para Mac OS X.
 
 Cuando comencé a usar esta técnica pensaba que era sobretodo un truco y me
 costaba mucho tomar descansos. Solo quería seguir adelante y el “horario”
@@ -378,7 +382,7 @@ está tan internalizado y es tan parte de mi subconsciente que parece casi
 sin esfuerzo (como si el acto de programar estuviera en la memoria
 muscular). Será un suceso sobre la noche, tras quince años de preparación.
 
-[9] Sprezzatura en Wikipedia.
+[^9] Sprezzatura en Wikipedia.
 
 Independientemente del nivel de mejoría alcanzado siempre tendremos el
 placer, privilegio y necesidad de continuar aprendiendo para el
