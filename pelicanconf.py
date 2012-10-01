@@ -4,6 +4,7 @@
 AUTHOR = 'PointToNull'
 SITENAME = "pointtonull's buglist"
 SITEURL = 'http://pointtonull.github.com/output'
+DISQUS_SITENAME = "blog-pointtonull"
 
 TIMEZONE = 'America/Jujuy'
 
@@ -23,3 +24,4 @@ SOCIAL = (
          )
 
 DEFAULT_PAGINATION = 10
+DISPLAY_PAGES_ON_MENU = True
