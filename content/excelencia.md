@@ -17,7 +17,7 @@ ventajas de compartir el conocimiento, me pareció buena idea traducirlo y
 publicarlo en este humilde blog para provecho de todos nosotros. El autor
 así me lo autorizó y hoy les presento esta imperfecta traducción:
 
-***************************************************************************
+___________________________________________________________________________
 
 Como escribí una serie de reflexiones sobre la búsqueda de la excelencia en
 la programación debo iniciar mi ensayo pidiéndole que olvide que escribí
@@ -85,7 +85,7 @@ de sus hijos en determinado tema concluyendo que "quizás X no es lo
 tuyo".[^1]
 
 [^1]: Estos conceptos son explicados, aunque en forma mucho más elocuente,
-en los primeros capítulos del excelente libro El arte de aprender de Josh
+en los primeros capítulos del excelente libro [El arte de aprender](http://www.puntaweb.com/cgi-bin/libros/consultar_libro_div.pl?cod=1277) de Josh
 Waitzkin.
 
 Al enfrentar una derrota el chico de la "inteligencia estática" puede
@@ -182,8 +182,8 @@ cual las personas que no tienen experiencia o son menos competentes en una
 disciplina dada tienden a sobrestimar sus habilidades (se ven, en otras
 palabras, afectados por una superioridad ilusoria[^3].
 
-[^2]: El efecto Dunning-Kruger en Wikipedia.
-[^3]: Superioridad ilusoria en Wikipedia (en inglés).
+[^2]: El [efecto Dunning-Kruger](http://es.wikipedia.org/wiki/Efecto_Dunning-Kruger) en Wikipedia.
+[^3]: [Superioridad ilusoria](http://en.wikipedia.org/wiki/Illusory_superiority) en Wikipedia (en inglés).
 
 La contracara es que cuanto más estudias más te das cuenta de lo poco que
 sabes y de cuanto más te falta aprender (un concepto propuesto por Sócrates
@@ -195,8 +195,9 @@ el agua que es fundamental para el crecimiento de la flor de la curiosidad
 intelectual[^4].
 
 [^4]: Por más sobre la importancia de la duda en la ciencia, echa un vistazo
-al bello epilogo en ¿Que te importa lo que piensan los demás? por Richard
-P. Feynman.
+al bello epilogo en [¿Que te importa lo que piensan los
+demás?](http://www.libros.universia.es/libro-%C2%BFQUE-TE-IMPORTA-LO-QUE-PIENSEN-LOS-DEMAS?-FEYNMAN-Richard-P/9788420696034/62654)
+por Richard P. Feynman.
 
 Mi enfoque en este caso es abrazar y dominar mi ignorancia y mis miedos.
 Siempre que hay un concepto del que me siento particularmente ignorante, o
@@ -314,8 +315,8 @@ para recordarme que no debo distraerme con internet. Para mí, la
 profundidad y el enfoque requerido por los libros es también un antídoto
 para el re-cableado que la red tiende a hacer en nuestro cerebro[^5].
 
-[^5]: Por más sobre este fenómeno lee Lo superficial: lo que Internet le
-está haciendo a nuestro cerebro por Nicholas Carr.
+[^5]: Por más sobre este fenómeno lee [Lo superficial: lo que Internet le
+está haciendo a nuestro cerebro](http://desequilibros.blogspot.com/2010/06/lo-que-internet-le-esta-haciendo.html) por Nicholas Carr.
 
 A propósito, hace pocos días Amazon anunció el nuevo Kindle DX de grafito
 de color[^6]. Creo que puedo hacer un desembolso y tenerlo para mi próximo
@@ -326,7 +327,7 @@ papel y el dispositivo no es tan distrayente como un iPad (un Kindle es
 para leer, y eso es todo). Además, es más ligero que la mayoría de libros
 técnicos y seguramente ocupa menos espacio en casa.
 
-[^6]: El nuevo Kindle DX en Amazon.
+[^6]: El nuevo [Kindle DX](http://programmingzen.com/recommends/?B002GYWHSQ) en Amazon.
 
 
 Logrando el enfoque
@@ -351,8 +352,8 @@ cuando 25 minutos (un pomodoro) han pasado, y me da cinco minutos de
 descanso por cada pomodoro. Cada 4 pomodoros puedo tomarme un descanso más
 largo.
 
-[^7]: La técnica Pomodoro.
-[^8]: Pomodoro para Mac OS X.
+[^7]: [La técnica Pomodoro](http://www.pomodorotechnique.com/).
+[^8]: [Pomodoro para Mac OS X](http://www.apple.com/downloads/macosx/development_tools/pomodoro.html).
 
 Cuando comencé a usar esta técnica pensaba que era sobretodo un truco y me
 costaba mucho tomar descansos. Solo quería seguir adelante y el "horario"
@@ -382,7 +383,7 @@ está tan internalizado y es tan parte de mi subconsciente que parece casi
 sin esfuerzo (como si el acto de programar estuviera en la memoria
 muscular). Será un suceso sobre la noche, tras quince años de preparación.
 
-[^9] Sprezzatura en Wikipedia.
+[^9] [Sprezzatura](http://es.wikipedia.org/wiki/Sprezzatura) en Wikipedia.
 
 Independientemente del nivel de mejoría alcanzado siempre tendremos el
 placer, privilegio y necesidad de continuar aprendiendo para el
