@@ -3,7 +3,7 @@
 
 AUTHOR = 'PointToNull'
 SITENAME = "pointtonull's buglist"
-SITEURL = 'http://pointtonull.github.com'
+SITEURL = 'http://pointtonull.github.com/output'
 
 TIMEZONE = 'America/Jujuy'
 
