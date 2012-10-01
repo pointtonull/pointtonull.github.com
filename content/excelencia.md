@@ -3,7 +3,7 @@ Title: La búsqueda de la excelencia en la programación
 
 Encontré hace poco este [excelente
 articulo](http://programmingzen.com/2010/07/04/the-pursuit-of-excellence-in-programming/)
-escrito por Antonio Cangiano en su blog [El zen de la
+escrito por [Antonio Cangiano](http://antoniocangiano.com/) en su blog [El zen de la
 programación](http://programmingzen.com). Es una invitación para realizar
 la reflexión que todos nos debemos a nosotros mismos. El lucido planteo
 sobre la naturaleza de la inteligencia y del aprendizaje le bastaría para
@@ -88,18 +88,18 @@ tuyo".[^1]
 en los primeros capítulos del excelente libro El arte de aprender de Josh
 Waitzkin.
 
-Al enfrentar una derrota el chico de la “inteligencia estática” puede
+Al enfrentar una derrota el chico de la "inteligencia estática" puede
 derrumbarse bajo el peso de su propia falla, como si el fracaso fuese un
 reflejo de su valor intrínseco en lugar de un tropezón temporal y una
-oportunidad para mejorar. Un chico de “inteligencia dinámica” simplemente
+oportunidad para mejorar. Un chico de "inteligencia dinámica" simplemente
 se esforzará más la próxima vez. Genios o no, la excelencia y maestría en
-cualquier área requiere un gran esfuerzo y muchos chicos “inteligentes”
+cualquier área requiere un gran esfuerzo y muchos chicos "inteligentes"
 fallan cuando el listón se levanta lo suficiente como para que la
-“inteligencia” baste por si sola. Esto usualmente coincide con el ingreso a
+"inteligencia" baste por si sola. Esto usualmente coincide con el ingreso a
 la universidad.
 
 Estoy muy familiarizado con todo esto porque fui uno de esos chicos. Fui
-etiquetado por mis padres y maestros de ciencias como “genio”. Incluso los
+etiquetado por mis padres y maestros de ciencias como "genio". Incluso los
 psicólogos de la escuela, quieres vinieron para ayudarme a reconocer las
 carreras a las que mejor me adaptaría, terminaron diciéndome que yo podía
 seguir casi cualquier carrera (en ese tiempo estaba interesado en física
@@ -148,10 +148,8 @@ combinando talento y esfuerzo. La verdadera genialidad es ser capaces de
 dedicar cientas de horas de estudio y practica a lo que se está intentando
 aprender y entender. 
 
-Miguel Ángel:
-
 > Si la gente supiera cuan duro he trabajado para lograr mi destreza, no la
-> encontrarían tan maravillosa en absoluto
+> encontrarían tan maravillosa en absoluto -- Miguel Ángel
 
 Bajo esta nueva definición fui un completo idiota que debió aprender de
 cero como apreciar el valor del esfuerzo para afilar y desarrollar su
@@ -169,10 +167,8 @@ inteligencia por sí sola y solo debo sentirme satisfecho si hago un buen
 trabajo intentando algo realmente desafiante; esto no puede ser alcanzado
 con solo "talento".
 
-Calogero C’ Anello de A Bronx Tale escribió:
-
 > Lo más triste en la vida es el talento desperdiciado, y las decisiones que
-> tomas marcarán tu vida para siempre.
+> tomas marcarán tu vida para siempre. -- Calogero C’ Anello de A Bronx Tale
 
 En el proceso, comencé a internalizar algunos principios y me ocupé de
 problemas sobre el arte de aprender y el arte de la programación.
@@ -210,9 +206,9 @@ ignorante pero este enfoque realmente me sirvió con el paso de los años.
 
 Si estás intentando aprender toda una rama de las ciencias de la
 computación o de las matemáticas te tomará un largo tiempo; entonces debes
-comenzar primero con los pequeños "temores” que pueden ser dominados, al
+comenzar primero con los pequeños "temores" que pueden ser dominados, al
 menos a un nivel introductorio, en una pequeña cantidad de tiempo. En lugar
-de pensar “Oh sí, realmente debería aprender Git” por meses, comienza a
+de pensar "Oh sí, realmente debería aprender Git" por meses, comienza a
 aprender. El conocimiento esencial para trabajar con Git o Hg no toma meses
 en aprender (asumiendo que necesitas de estas herramientas en particular).
 
@@ -223,6 +219,7 @@ cientos de horas de estudio dedicado y práctica.
 
 
 Teoría y práctica
+-----------------
 
 Los maestros en cualquier disciplina intelectual tienden a tener un buen
 conocimiento de los aspectos prácticos y teóricos. La búsqueda de la
@@ -237,15 +234,14 @@ día (esto no incluye el código que escribo por trabajo, por supuesto).
 Hasta ahora esta regla ha tenido un impacto positivo en mi habilidad para
 codear.
 
-Mozart escribió:
-
-Es un error pensar que la practica de mi arte ha llegado sencillamente a
-mi. Le aseguro, querido amigo, nadie ha dado tanto cuidado al estudio de la
-composición como yo. Hay apenas un famoso maestro en música cuyos trabajos
-no he estudiado con frecuencia y diligencia.
+> Es un error pensar que la practica de mi arte ha llegado sencillamente a
+> mi. Le aseguro, querido amigo, nadie ha dado tanto cuidado al estudio de
+> la composición como yo. Hay apenas un famoso maestro en música cuyos
+> trabajos no he estudiado con frecuencia y diligencia. -- Mozart
 
 
 Amplitud vs. Profundidad
+------------------------
 
 Mientras progresamos en nuestro viaje en la búsqueda de la excelencia en
 programación, una pregunta que se volverá molesta en la mente de las
@@ -278,9 +274,10 @@ que por el medio usado.
 
 
 Donde encontrar el tiempo
+-------------------------
 
 Una de las objeciones que oigo a menudo, particularmente a la hora de leer
-libros, es “¡No tengo tiempo!”. En unos pocos casos extremos esto puede ser
+libros, es "¡No tengo tiempo!". En unos pocos casos extremos esto puede ser
 realmente cierto, pero creo que la mayoría de la gente subestima
 enormemente cuanto tiempo "desperdicia" en sus costumbres diarias (incluso
 solo navegando).
@@ -298,15 +295,15 @@ cada día.
 
 Intenta este enfoque y verás que leer libros no toma mucho tiempo,
 simplemente haciéndolo puedes leer varios libros (incluyendo técnicos) cada
-mes.  Aristóteles escribió:
+mes. 
 
-Somos lo que repetidamente hacemos. Excelencia, entonces, no es un acto
-sino un hábito.
+> Somos lo que repetidamente hacemos. Excelencia, entonces, no es un acto
+> sino un hábito. -- Aristóteles
 
 Para ciertos libros es conveniente tener una copia en PDF en tu ordenador,
 así podrás saltar del libro a tu editor/consola ida y vuelta. Sin embargo,
 generalmente hablando, el ordenador tiende a ser un poco más distrayente y
-pensamientos como “chequearé mi mail rápidamente” pueden, con suma
+pensamientos como "chequearé mi mail rápidamente" pueden, con suma
 facilidad, conducir a horas gastadas haciendo otras cosas.
 
 Por esta razón prefiero leer desde un libro de papel, lo que es también más
@@ -317,7 +314,8 @@ para recordarme que no debo distraerme con internet. Para mí, la
 profundidad y el enfoque requerido por los libros es también un antídoto
 para el re-cableado que la red tiende a hacer en nuestro cerebro[^5].
 
-[^5]: Por más sobre este fenómeno lee Lo superficial: lo que Internet le está haciendo a nuestro cerebro por Nicholas Carr.
+[^5]: Por más sobre este fenómeno lee Lo superficial: lo que Internet le
+está haciendo a nuestro cerebro por Nicholas Carr.
 
 A propósito, hace pocos días Amazon anunció el nuevo Kindle DX de grafito
 de color[^6]. Creo que puedo hacer un desembolso y tenerlo para mi próximo
@@ -357,13 +355,13 @@ largo.
 [^8]: Pomodoro para Mac OS X.
 
 Cuando comencé a usar esta técnica pensaba que era sobretodo un truco y me
-costaba mucho tomar descansos. Solo quería seguir adelante y el “horario”
+costaba mucho tomar descansos. Solo quería seguir adelante y el "horario"
 me parecía tonto. Sin embargo, debo admitir que con él se logra un elegante
 balance entre el deseo de enfocarse durante periodos extensos de tiempo y
 la importancia de tomar mini-recreos regularmente.
 
 Este método se convirtió en rutina para mi mente por lo que, aunque solo
-sea un truco, es una buena manera para mantenerme enfocado y “en la zona”.
+sea un truco, es una buena manera para mantenerme enfocado y "en la zona".
 
 
 En busca de la sprezzatura
@@ -391,6 +389,4 @@ placer, privilegio y necesidad de continuar aprendiendo para el
 mejoramiento de nosotros mismos y de nuestro arte. Cuando no hay destino el
 viaje es lo que realmente importa.
 
-Miguel Ángel escribió:
-
-> Ancora imparo. (sigo aprendiendo)
+> Ancora imparo. (sigo aprendiendo) -- Miguel Ángel
