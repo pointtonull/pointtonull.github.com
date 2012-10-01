@@ -385,7 +385,7 @@ está tan internalizado y es tan parte de mi subconsciente que parece casi
 sin esfuerzo (como si el acto de programar estuviera en la memoria
 muscular). Será un suceso sobre la noche, tras quince años de preparación.
 
-[^9] [Sprezzatura](http://es.wikipedia.org/wiki/Sprezzatura) en Wikipedia.
+[^9]: [Sprezzatura](http://es.wikipedia.org/wiki/Sprezzatura) en Wikipedia.
 
 Independientemente del nivel de mejoría alcanzado siempre tendremos el
 placer, privilegio y necesidad de continuar aprendiendo para el
