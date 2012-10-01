@@ -1,12 +1,16 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
+from pelican.plugins import gravatar, github_activity
+
 AUTHOR = 'PointToNull'
 SITENAME = "pointtonull's buglist"
 SITEURL = 'http://pointtonull.github.com/output'
 DISQUS_SITENAME = "blog-pointtonull"
 
 TIMEZONE = 'America/Jujuy'
+PLUGINS = [gravatar, github_activity]
+GITHUB_ACTIVITY_FEED = 'https://github.com/pointtonull.atom'
 
 DEFAULT_LANG = 'es'
 
