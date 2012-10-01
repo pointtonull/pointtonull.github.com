@@ -8,7 +8,6 @@ SITENAME = "pointtonull's buglist"
 SITEURL = 'http://pointtonull.github.com/output'
 DISQUS_SITENAME = "blog-pointtonull"
 THEME = "notmyidea"
-THEME = "simple"
 
 TIMEZONE = 'America/Jujuy'
 PLUGINS = [gravatar, github_activity]
