@@ -1,6 +1,8 @@
 Date: 2010/07/14
 Title: La búsqueda de la excelencia en la programación
 
+![La búsqueda de la excelencia en la programación](http://arnet.no-ip.org/blog/tunnedbrain.png)
+
 Encontré hace poco este [excelente
 articulo](http://programmingzen.com/2010/07/04/the-pursuit-of-excellence-in-programming/)
 escrito por [Antonio Cangiano](http://antoniocangiano.com/) en su blog [El zen de la
