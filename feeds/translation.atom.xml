@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Snippets - Translated</title><link href="http://pointtonull.github.io/" rel="alternate"></link><link href="http://pointtonull.github.io/feeds/translated.atom.xml" rel="self"></link><id>http://pointtonull.github.io/</id><updated>2018-01-14T00:00:00+00:00</updated><entry><title>La búsqueda de la excelencia en la programación</title><link href="http://pointtonull.github.io/excelencia.html" rel="alternate"></link><published>2010-07-14T00:00:00+01:00</published><updated>2018-01-14T00:00:00+00:00</updated><author><name>pointtonull</name></author><id>tag:pointtonull.github.io,2010-07-14:/excelencia.html</id><summary type="html">&lt;p&gt;Spanish version of: The pusuit of Excellence in Programming&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is the translation of &lt;a href="http://programmingzen.com/2010/07/04/the-pursuit-of-excellence-in-programming/"&gt;The Pursuit of Excellence in Programming&lt;/a&gt; I wrote
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Snippets - Translation</title><link href="http://pointtonull.github.io/" rel="alternate"></link><link href="http://pointtonull.github.io/feeds/translation.atom.xml" rel="self"></link><id>http://pointtonull.github.io/</id><updated>2018-01-14T00:00:00+00:00</updated><entry><title>La búsqueda de la excelencia en la programación</title><link href="http://pointtonull.github.io/excelencia.html" rel="alternate"></link><published>2010-07-14T00:00:00+01:00</published><updated>2018-01-14T00:00:00+00:00</updated><author><name>pointtonull</name></author><id>tag:pointtonull.github.io,2010-07-14:/excelencia.html</id><summary type="html">&lt;p&gt;Spanish version of: The pusuit of Excellence in Programming&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img alt="La búsqueda de la excelencia en la programación" src="images/tunned_brain.png" width="100%"&gt;&lt;/p&gt;
+&lt;p&gt;This is the translation of &lt;a href="http://programmingzen.com/2010/07/04/the-pursuit-of-excellence-in-programming/"&gt;The Pursuit of Excellence in Programming&lt;/a&gt; I wrote
 to share the love with esDebian community some time ago.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Encontré hace poco este excelente &lt;a href="http://programmingzen.com/2010/07/04/the-pursuit-of-excellence-in-programming/"&gt;articulo&lt;/a&gt; escrito por &lt;a href="http://antoniocangiano.com/"&gt;Antonio Cangiano&lt;/a&gt; en
@@ -13,7 +14,6 @@ programación; métodos que yo ya he comenzado a aplicar felizmente.&lt;/p&gt;
 ventajas de compartir el conocimiento, me pareció buena idea traducirlo y
 publicarlo en este humilde blog para provecho de todos nosotros. El autor
 así me lo autorizó y hoy les presento esta imperfecta traducción:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="La búsqueda de la excelencia en la programación" src="images/tunned_brain.png" width="100%"&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Como escribí una serie de reflexiones sobre la búsqueda de la excelencia en
 la programación debo iniciar mi ensayo pidiéndole que olvide que escribí
