@@ -20,14 +20,22 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
+LINKS = (('Resume (PDF)',
+          'https://github.com/pointtonull/cvs/blob/master/CV_Carlos_Cabrera_de_long.pdf'
+         ),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+        )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+          ("linkedin", "https://www.linkedin.com/in/pointtonull"),
+          ("github", "http://github.com/pointtotnull")
+         )
+
+STATIC_PATHS = [
+    'images',
+    'extra/robots.txt',
+]
 
 DEFAULT_PAGINATION = 10
 

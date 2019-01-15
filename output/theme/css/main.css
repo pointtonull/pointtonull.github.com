@@ -3,15 +3,16 @@
 	Date: July 2009
 	Description: Sample layout for HTML5 and CSS3 goodness.
 	Version: 1.0
-	Author: Enrique Ramírez
-	Autor URI: http://enrique-ramirez.com
+	License: MIT <http://opensource.org/licenses/MIT>
+	Licensed by: Smashing Media GmbH <http://www.smashingmagazine.com/>
+	Original author: Enrique Ramírez <http://enrique-ramirez.com/>
 */
 
 /* Imports */
 @import url("reset.css");
 @import url("pygment.css");
 @import url("typogrify.css");
-@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&subset=latin);
+@import url("fonts.css");
 
 /***** Global *****/
 /* Body */
@@ -42,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h3, h4, h5, h6 { margin-top: .8em; }
-	
+
 hr { border: 2px solid #EEEEEE; }
 
 /* Anchors */
@@ -63,9 +64,11 @@ a:hover, a:active {
 h1 a:hover {
     background-color: inherit
 }
-	
+
 /* Paragraphs */
-p {margin-bottom: 1.143em;}
+div.line-block,
+p { margin-top: 1em;
+    margin-bottom: 1em;}
 
 strong, b {font-weight: bold;}
 em, i {font-style: italic;}
@@ -73,13 +76,16 @@ em, i {font-style: italic;}
 /* Lists */
 ul {
 	list-style: outside disc;
-	margin: 1em 0 1.5em 1.5em;
+	margin: 0em 0 0 1.5em;
 }
 
 ol {
 	list-style: outside decimal;
-	margin: 1em 0 1.5em 1.5em;
+	margin: 0em 0 0 1.5em;
 }
+
+li { margin-top: 0.5em;
+     margin-bottom: 1em; }
 
 .post-info {
     float:right;
@@ -88,6 +94,7 @@ ol {
 }
 
 .post-info p{
+    margin-top: 1px;
     margin-bottom: 1px;
 }
 
@@ -97,7 +104,7 @@ dl {margin: 0 0 1.5em 0;}
 dt {font-weight: bold;}
 dd {margin-left: 1.5em;}
 
-pre{background-color: #000; padding: 10px; color: #fff; margin: 10px; overflow: auto;}
+pre{background-color:  rgb(238, 238, 238); padding: 10px; margin: 10px; overflow: auto;}
 
 /* Quotes */
 blockquote {
@@ -117,7 +124,7 @@ div.note {
 
 /* Tables */
 table {margin: .5em auto 1.5em auto; width: 98%;}
-	
+
 	/* Thead */
 	thead th {padding: .5em .4em; text-align: left;}
 	thead td {}
@@ -125,14 +132,14 @@ table {margin: .5em auto 1.5em auto; width: 98%;}
 	/* Tbody */
 	tbody td {padding: .5em .4em;}
 	tbody th {}
-	
+
 	tbody .alt td {}
 	tbody .alt th {}
-	
+
 	/* Tfoot */
 	tfoot th {}
 	tfoot td {}
-	
+
 /* HTML5 tags */
 header, section, footer,
 aside, nav, article, figure {
@@ -166,9 +173,9 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		color: #C74350;
 		text-shadow: none;
 	}
-	
+
 	#banner h1 strong {font-size: 0.36em; font-weight: normal;}
-	
+
 	/* Main Nav */
 	#banner nav {
 		background: #000305;
@@ -179,15 +186,15 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		padding: 0;
 		text-align: center;
 		width: 800px;
-		
+
 		border-radius: 5px;
 		-moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
 	}
-	
+
 	#banner nav ul {list-style: none; margin: 0 auto; width: 800px;}
 	#banner nav li {float: left; display: inline; margin: 0;}
-	
+
 	#banner nav a:link, #banner nav a:visited {
 		color: #fff;
 		display: inline-block;
@@ -201,12 +208,12 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		color: #fff;
 		text-shadow: none !important;
 	}
-	
+
 	#banner nav li:first-child a {
 		border-top-left-radius: 5px;
 		-moz-border-radius-topleft: 5px;
 		-webkit-border-top-left-radius: 5px;
-		
+
 		border-bottom-left-radius: 5px;
 		-moz-border-radius-bottomleft: 5px;
 		-webkit-border-bottom-left-radius: 5px;
@@ -221,7 +228,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	overflow: hidden;
 	padding: 20px;
 	width: 760px;
-	
+
 	border-radius: 10px;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
@@ -250,7 +257,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	overflow: hidden;
 	padding: 20px 20px;
 	width: 760px;
-	
+
 	border-radius: 10px;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
@@ -285,30 +292,48 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		float: left;
 		width: 615px;
 	}
-	
+
 	#extras .blogroll li {float: left; margin: 0 20px 0 0; width: 185px;}
-	
+
 	/* Social */
 	#extras .social {
 		float: right;
 		width: 175px;
 	}
-	
+
 	#extras div[class='social'] a {
 		background-repeat: no-repeat;
 		background-position: 3px 6px;
 		padding-left: 25px;
 	}
-	
+
 		/* Icons */
+		.social a[href*='about.me'] {background-image: url('../images/icons/aboutme.png');}
+		.social a[href*='bitbucket.org'] {background-image: url('../images/icons/bitbucket.png');}
 		.social a[href*='delicious.com'] {background-image: url('../images/icons/delicious.png');}
 		.social a[href*='digg.com'] {background-image: url('../images/icons/digg.png');}
 		.social a[href*='facebook.com'] {background-image: url('../images/icons/facebook.png');}
+		.social a[href*='gitorious.org'] {background-image: url('../images/icons/gitorious.png');}
+		.social a[href*='github.com'],
+		.social a[href*='git.io'] {
+			background-image: url('../images/icons/github.png');
+			background-size: 16px 16px;
+		}
+		.social a[href*='gittip.com'] {background-image: url('../images/icons/gittip.png');}
+		.social a[href*='plus.google.com'] {background-image: url('../images/icons/google-plus.png');}
+		.social a[href*='groups.google.com'] {background-image: url('../images/icons/google-groups.png');}
+		.social a[href*='news.ycombinator.com'],
+		.social a[href*='hackernewsers.com'] {background-image: url('../images/icons/hackernews.png');}
 		.social a[href*='last.fm'], .social a[href*='lastfm.'] {background-image: url('../images/icons/lastfm.png');}
-		.social a[type$='atom+xml'], .social a[type$='rss+xml'] {background-image: url('../images/icons/rss.png');}
-		.social a[href*='twitter.com'] {background-image: url('../images/icons/twitter.png');}
 		.social a[href*='linkedin.com'] {background-image: url('../images/icons/linkedin.png');}
-		.social a[href*='gitorious.org'] {background-image: url('../images/icons/gitorious.org');}
+		.social a[href*='reddit.com'] {background-image: url('../images/icons/reddit.png');}
+		.social a[type$='atom+xml'], .social a[type$='rss+xml'] {background-image: url('../images/icons/rss.png');}
+		.social a[href*='slideshare.net'] {background-image: url('../images/icons/slideshare.png');}
+		.social a[href*='speakerdeck.com'] {background-image: url('../images/icons/speakerdeck.png');}
+		.social a[href*='stackoverflow.com'] {background-image: url('../images/icons/stackoverflow.png');}
+		.social a[href*='twitter.com'] {background-image: url('../images/icons/twitter.png');}
+		.social a[href*='vimeo.com'] {background-image: url('../images/icons/vimeo.png');}
+		.social a[href*='youtube.com'] {background-image: url('../images/icons/youtube.png');}
 
 /*
 	About
@@ -321,7 +346,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	padding: 20px;
 	text-align: left;
 	width: 760px;
-	
+
 	border-radius: 10px;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
@@ -365,7 +390,7 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 	/* Blog Index */
 	#posts-list {list-style: none; margin: 0;}
 	#posts-list .hentry {padding-left: 10px; position: relative;}
-	
+
 	#posts-list footer {
 		left: 10px;
 		position: relative;
@@ -373,7 +398,7 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 		top: 0.5em;
 		width: 190px;
 	}
-	
+
 	/* About the Author */
 	#about-author {
 		background: #f9f9f9;
@@ -381,21 +406,21 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 		font-style: normal;
 		margin: 2em 0;
 		padding: 10px 20px 15px 20px;
-		
+
 		border-radius: 5px;
 		-moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
 	}
-	
+
 	#about-author strong {
 		color: #C64350;
 		clear: both;
 		display: block;
 		font-size: 1.429em;
 	}
-	
+
 	#about-author .photo {border: 1px solid #ddd; float: left; margin: 5px 1em 0 0;}
-	
+
 	/* Comments */
 	#comments-list {list-style: none; margin: 0 1em;}
 	#comments-list blockquote {
@@ -404,24 +429,24 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 		font-style: normal;
 		margin: 0;
 		padding: 15px 20px;
-		
+
 		border-radius: 5px;
 		-moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
 	}
 	#comments-list footer {color: #888; padding: .5em 1em 0 0; text-align: right;}
-	
+
 	#comments-list li:nth-child(2n) blockquote {background: #F5f5f5;}
-	
+
 	/* Add a Comment */
 	#add-comment label {clear: left; float: left; text-align: left; width: 150px;}
 	#add-comment input[type='text'],
 	#add-comment input[type='email'],
 	#add-comment input[type='url'] {float: left; width: 200px;}
-	
+
 	#add-comment textarea {float: left; height: 150px; width: 495px;}
-	
+
 	#add-comment p.req {clear: both; margin: 0 .5em 1em 0; text-align: right;}
-	
+
 	#add-comment input[type='submit'] {float: right; margin: 0 .5em;}
 	#add-comment * {margin-bottom: .5em;}
