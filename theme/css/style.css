@@ -154,7 +154,7 @@
             height: 7em;
             left: 0;
             position: absolute;
-            text-align: center;
+            margin: 0 auto 1.5em auto;
             top: 1em;
             width: 100%;
         }
