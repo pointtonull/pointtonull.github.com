@@ -364,9 +364,9 @@
             text-align: center;
         }
 
-        .blog-summary:hover .icon.feature{
-            opacity: 1;
-        }
+            .blog-summary:hover .icon.feature{
+                opacity: 1;
+            }
 
             .icon.feature:before {
                 font-size: 5em;
