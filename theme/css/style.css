@@ -359,9 +359,8 @@
         .icon.feature {
             cursor: default;
             display: block;
-            margin: 0 0 1.5em 0;
+            margin: auto;
             opacity: 0.35;
-            text-align: center;
         }
 
             .icon.feature:before {
