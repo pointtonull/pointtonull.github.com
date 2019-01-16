@@ -360,8 +360,12 @@
             cursor: default;
             display: block;
             margin: 0 auto 1.5em auto;
-            opacity: 0.35;
+            opacity: 0.50;
             text-align: center;
+        }
+
+        .icon.feature:hover {
+            opacity: 1;
         }
 
             .icon.feature:before {
