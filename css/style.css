@@ -364,7 +364,7 @@
             text-align: center;
         }
 
-        .icon.feature:hover {
+        .blog-summary:hover .icon.feature{
             opacity: 1;
         }
 
